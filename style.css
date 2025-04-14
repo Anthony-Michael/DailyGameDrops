@@ -1,0 +1,39 @@
+#newsletter-form input[type="email"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    flex-grow: 1; /* Take available space */
+    min-width: 200px; /* Prevent input becoming too small */
+    margin-bottom: 10px; /* Add space below input on mobile */
+}
+
+#newsletter-form button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    width: 100%; /* Ensure full width */
+}
+
+/* --- Additions for fade-out --- */
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+.fade-out {
+  animation: fadeOut 1s ease-out 4s forwards; /* Start fading after 4s, take 1s to fade */
+}
+/* --- End additions --- */
+
+.newsletter-message {
+    margin-top: 15px;
+    font-weight: bold;
+    /* Ensure opacity starts at 1 for animation visibility */
+    opacity: 1; 
+}
+
+/* Footer */ 
