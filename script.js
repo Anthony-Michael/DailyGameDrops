@@ -1,38 +1,63 @@
 // Placeholder for fetching and rendering deals - to be implemented next
 fetchDeals();
 
-// Function to fetch deals
+// Function to fetch deals from deals.json
 async function fetchDeals() {
     const dealsContainer = document.getElementById('deals-container');
-    if (!dealsContainer) {
-        console.error('Deals container not found!');
+    const loader = document.getElementById('loader'); // Get loader element
+
+    if (!dealsContainer || !loader) {
+        console.error('Deals container or loader not found!');
+        if(dealsContainer) dealsContainer.innerHTML = '<p style="color: red; text-align: center;">Error: UI elements missing.</p>';
         return;
     }
+
+    // Keep loader visible initially, clearing previous deals/errors if any
+    dealsContainer.innerHTML = ''; 
+    dealsContainer.appendChild(loader); // Make sure loader is there
+    loader.style.display = 'block'; // Ensure loader is visible
 
     try {
         console.log('Fetching deals from deals.json...');
         const response = await fetch('deals.json');
+
+        // Simulate network delay for testing loader (remove in production)
+        // await new Promise(resolve => setTimeout(resolve, 1500));
+
         if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+            // Handle network errors (e.g., file not found, 404, 500)
+            throw new Error(`Failed to fetch deals. Status: ${response.status}`);
         }
+
         const deals = await response.json();
         console.log('Deals loaded:', deals);
 
-        dealsContainer.innerHTML = ''; // Clear any existing placeholders or old content
+        loader.style.display = 'none'; // Hide loader
+        dealsContainer.innerHTML = ''; // Clear loader before adding deals
 
-        if (deals.length === 0) {
-            dealsContainer.innerHTML = '<p>No deals found today. Check back later!</p>';
+        if (!deals || deals.length === 0) {
+            // Display a message if no deals are found
+            dealsContainer.innerHTML = '<p style="text-align: center; padding: 20px;">No deals found today. Check back later!</p>';
             return;
         }
 
+        // Loop through each deal and create a card for it
         deals.forEach(deal => {
-            const card = createDealCard(deal);
-            dealsContainer.appendChild(card);
+            const cardElement = createDealCard(deal);
+            dealsContainer.appendChild(cardElement);
         });
 
     } catch (error) {
         console.error('Error fetching or processing deals:', error);
-        dealsContainer.innerHTML = '<p>Could not load deals. Please try again later.</p>';
+        loader.style.display = 'none'; // Hide loader on error too
+        // Display a user-friendly error message within the container
+        dealsContainer.innerHTML = `
+            <div style="color: red; text-align: center; padding: 40px;">
+                <p><strong>Oops! Could not load game deals.</strong></p>
+                <p>${error.message}</p>
+                <p>Please try refreshing the page later.</p>
+            </div>
+        `;
     }
 }
 
@@ -121,6 +146,52 @@ function handleNewsletterFormSubmission() {
 
 // Fetch and render deals when the page loads
 fetchDeals();
+
+// Add event listener for newsletter form submission
+document.getElementById('newsletter-form').addEventListener('submit', function(event) {
+    event.preventDefault();
+    handleNewsletterFormSubmission();
+});
+
+// --- Add Affiliate Link Click Tracking --- 
+const dealsContainer = document.getElementById('deals-container');
+if (dealsContainer) {
+    dealsContainer.addEventListener('click', (event) => {
+        // Check if the clicked element is an affiliate button or inside one
+        const affiliateButton = event.target.closest('.affiliate-button');
+
+        if (affiliateButton) {
+            const linkUrl = affiliateButton.href;
+            let gameTitle = 'Unknown Game';
+
+            // Try to find the game title from the parent card
+            const card = affiliateButton.closest('.deal-card');
+            if (card) {
+                const titleElement = card.querySelector('h3');
+                if (titleElement) {
+                    gameTitle = titleElement.textContent;
+                }
+            }
+
+            // Log to console
+            console.log('Affiliate link clicked:', {
+                title: gameTitle,
+                url: linkUrl
+            });
+
+            // TODO: Send event to Google Analytics (or other analytics service)
+            // Example for GA (if configured):
+            if (typeof gtag === 'function') {
+                gtag('event', 'click_affiliate_link', {
+                    'event_category': 'Affiliate Links',
+                    'event_label': gameTitle, // e.g., "Cyberpunk 2077"
+                    'value': linkUrl // Send the URL as the value or in a custom dimension
+                });
+            }
+        }
+    });
+}
+// --- End Affiliate Link Click Tracking ---
 
 // Add event listener for newsletter form submission
 document.getElementById('newsletter-form').addEventListener('submit', function(event) {

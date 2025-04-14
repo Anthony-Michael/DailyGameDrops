@@ -29,6 +29,16 @@
 }
 /* --- End additions --- */
 
+/* Loader Style */
+.loader {
+    text-align: center;
+    padding: 40px;
+    font-size: 1.2em;
+    color: #666;
+}
+
+/* Media Query for smaller screens */
+
 .newsletter-message {
     margin-top: 15px;
     font-weight: bold;
