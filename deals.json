@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Elden Ring",
+    "imageUrl": "https://via.placeholder.com/300x150.png?text=Elden+Ring",
+    "currentPrice": "$35.99",
+    "originalPrice": "$59.99",
+    "discountPercent": 40, 
+    "platform": "PC",
+    "store": "Steam",
+    "affiliateLink": "https://your-affiliate-network.com/link?id=steam_elden_ring&user=your_id"
+  },
+  {
+    "title": "Ghost of Tsushima Director's Cut",
+    "imageUrl": "https://via.placeholder.com/300x150.png?text=Ghost+of+Tsushima",
+    "isFree": true,
+    "originalPrice": "$49.99",
+    "platform": "PC",
+    "store": "Epic Games Store",
+    "affiliateLink": "https://your-affiliate-network.com/link?id=epic_ghost_freebie&user=your_id"
+  },
+  {
+    "title": "Cyberpunk 2077: Ultimate Edition",
+    "imageUrl": "https://via.placeholder.com/300x150.png?text=Cyberpunk+Ultimate",
+    "currentPrice": "$40.19",
+    "originalPrice": "$59.99",
+    "discountPercent": 33,
+    "platform": "PC",
+    "store": "GOG",
+    "affiliateLink": "https://your-affiliate-network.com/link?id=gog_cyberpunk_ultimate&user=your_id"
+  },
+  {
+    "title": "Must-Play Metroidvanias Bundle",
+    "imageUrl": "https://via.placeholder.com/300x150.png?text=Metroidvania+Bundle",
+    "priceDescription": "Pay $10+ for 8 items",
+    "discountPercent": 95,
+    "platform": "PC",
+    "store": "Humble Bundle",
+    "affiliateLink": "https://your-affiliate-network.com/link?id=humble_metroidvania&user=your_id"
+  },
+  {
+    "title": "Assassin's Creed Valhalla",
+    "imageUrl": "https://via.placeholder.com/300x150.png?text=AC+Valhalla",
+    "currentPrice": "$14.99",
+    "originalPrice": "$59.99",
+    "discountPercent": 75,
+    "platform": "PC",
+    "store": "Ubisoft Store",
+    "affiliateLink": "https://your-affiliate-network.com/link?id=ubi_ac_valhalla&user=your_id"
+  }
+] 
