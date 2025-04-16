@@ -1,11 +1,10 @@
-<section class="deals-container" id="deals-container">
-            <!-- Initial Loader Message -->
-            <div class="loader" id="loader">Loading today's deals...</div>
-            <!-- Deal cards will be dynamically added here by script.js -->
-        </section> 
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Game Drops</title>
     <link rel="stylesheet" href="style.css">
-    
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-GL4WTG6DR2"></script>
     <script>
@@ -15,5 +14,35 @@
       gtag('config', 'G-GL4WTG6DR2');
     </script>
     <!-- End Google Analytics -->
+</head>
+<body>
+    <header>
+        <h1>Daily Game Drops</h1>
+        <p>Your source for the latest free games and deals!</p>
+    </header>
 
-</head> 
+    <main>
+        <section class="deals-container" id="deals-container">
+            <!-- Initial Loader Message -->
+            <div class="loader" id="loader">Loading today's deals...</div>
+            <!-- Deal cards will be dynamically added here by script.js -->
+        </section>
+
+        <section class="newsletter">
+             <h2>Stay Updated!</h2>
+             <p>Sign up for our newsletter to get deals delivered to your inbox.</p>
+             <form id="newsletter-form">
+                 <input type="email" id="email-input" placeholder="Enter your email" required>
+                 <button type="submit">Subscribe</button>
+             </form>
+             <p id="newsletter-message"></p>
+         </section>
+    </main>
+
+    <footer>
+        <p>&copy; <span id="year"></span> DailyGameDrops. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js" defer></script>
+</body>
+</html> 
