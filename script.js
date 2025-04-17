@@ -59,6 +59,17 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // Mobile Menu Toggle
+  const menu = document.querySelector('#mobile-menu');
+  const navMenu = document.querySelector('.nav-menu');
+
+  if (menu && navMenu) {
+    menu.addEventListener('click', () => {
+      menu.classList.toggle('active');
+      navMenu.classList.toggle('active');
+    });
+  }
+
   // Call fetchDeals() after all functions have been declared
   fetchDeals();
 });

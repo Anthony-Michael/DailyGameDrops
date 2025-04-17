@@ -1,3 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+/* Keyframes for Animations */
+@keyframes fadeIn {
+  from { 
+    opacity: 0; 
+    transform: translateY(10px); /* Optional: slight upward move */
+  }
+  to { 
+    opacity: 1; 
+    transform: translateY(0);
+  }
+}
+
+/* Base Styles */
+body {
+    font-family: 'Inter', sans-serif; /* Apply Inter font */
+    padding-top: 60px; 
+    margin: 0;
+    box-sizing: border-box; 
+    line-height: 1.6; /* Improve overall readability */
+    color: #333; /* Set a base text color */
+}
+
 #newsletter-form input[type="email"] {
     padding: 10px;
     border: 1px solid #ccc;
@@ -47,3 +71,433 @@
 }
 
 /* Footer */ 
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+header, main, footer, .newsletter, .about-section {
+    padding: 20px;
+    max-width: 1200px; /* Limit content width */
+    margin: 0 auto; /* Center content */
+}
+
+header {
+    text-align: center;
+    background-color: #f4f4f4; /* Light background for header */
+    border-bottom: 1px solid #ddd;
+}
+
+/* Deals Container - Flexbox Layout */
+.deals-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    gap: 20px; /* Space between cards */
+    justify-content: center; /* Center cards horizontally */
+    padding: 20px 0; /* Adjust padding */
+}
+
+/* Deal Card Styles */
+.deal-card {
+    border: 1px solid #e0e0e0; /* Slightly lighter border */
+    border-radius: 8px;
+    overflow: hidden;
+    width: calc(33.333% - 20px); 
+    min-width: 280px; 
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.08); /* Refined shadow */
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out; /* Smooth transitions */
+    cursor: pointer; /* Indicate interactivity */
+    opacity: 0; /* Start hidden for animation */
+    animation: fadeIn 0.6s ease-out forwards;
+    animation-delay: 0.1s; /* Slight delay before cards start fading in */
+}
+
+.deal-card:hover {
+    transform: translateY(-5px); /* Slight lift on hover */
+    box-shadow: 0 8px 16px rgba(0,0,0,0.12); /* Enhanced shadow on hover */
+}
+
+.deal-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-bottom: 1px solid #e0e0e0; /* Add subtle separator */
+}
+
+.deal-card .card-content {
+    padding: 20px; /* Increased padding */
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.deal-card h3 {
+    margin-top: 0;
+    margin-bottom: 10px; /* Add space below title */
+    font-size: 1.2em;
+    line-height: 1.4; /* Improve readability */
+}
+
+.deal-card .details {
+    font-size: 0.9em;
+    color: #666;
+    margin-bottom: 15px; /* Add space below details */
+}
+
+.deal-card .price {
+    margin-top: auto;
+    padding-top: 15px; /* Adjusted padding */
+    font-weight: bold;
+}
+
+/* Specific Price Styling (Add/modify as needed) */
+.price .discount {
+    color: #e74c3c; /* Red for discount */
+    margin-right: 8px;
+}
+
+.price .original-price {
+    text-decoration: line-through;
+    color: #999;
+    margin-right: 8px;
+    font-size: 0.9em;
+}
+
+.price .current-price {
+    color: #27ae60; /* Green for current price */
+    font-size: 1.1em;
+}
+
+.price .free {
+    color: #27ae60; /* Green for free */
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.affiliate-button {
+    margin-top: 15px; 
+    padding: 12px 20px; /* Increased padding */
+    text-align: center;
+    background-color: #3498db; 
+    color: #fff;
+    text-decoration: none;
+    border-radius: 25px; /* More rounded edges */
+    transition: background-color 0.2s ease, transform 0.1s ease; /* Added transform transition */
+    display: inline-block; 
+    font-size: 1em; /* Slightly larger font */
+    font-weight: bold;
+    border: none; /* Ensure no border */
+    cursor: pointer; /* Explicitly set cursor */
+}
+
+.affiliate-button:hover {
+    background-color: #258cd1; /* Slightly different hover shade */
+    transform: scale(1.03); /* Slight scale effect on hover */
+}
+
+.affiliate-button:active { /* Add subtle pressed effect */
+    transform: scale(0.98);
+}
+
+/* Newsletter & About Sections */
+.newsletter, .about-section {
+    background-color: #f9f9f9;
+    border-top: 1px solid #eee;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #333; /* Dark background */
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: fixed; /* Stick to the top */
+    top: 0;
+    left: 0; /* Ensure it stretches full width */
+    width: 100%;
+    z-index: 999; /* Stay on top of other content */
+    transition: background-color 0.3s ease;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px; /* Limit width on large screens */
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.navbar-logo {
+    color: #fff; /* White logo text */
+    justify-self: start;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+}
+
+.nav-item {
+    height: 60px;
+    line-height: 60px; /* Vertically center links */
+}
+
+.nav-link {
+    color: #fff; /* White link text */
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 0 1rem;
+    height: 100%;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #1abc9c; 
+    border-bottom: 3px solid #1abc9c;
+}
+
+/* Style for the 'Submit a Deal' button in nav */
+.nav-item.nav-button a {
+    background-color: #1abc9c; /* Highlight color */
+    color: #fff; /* White text */
+    padding: 8px 16px; /* Button-like padding */
+    border-radius: 20px; /* Rounded edges */
+    margin-left: 15px; /* Space from other links */
+    transition: background-color 0.2s ease, color 0.2s ease;
+    border-bottom: none; /* Remove the hover border from standard links */
+    line-height: normal; /* Override nav-item line-height if needed */
+    height: auto; /* Override nav-item height */
+    align-self: center; /* Center vertically within flex container */
+}
+
+.nav-item.nav-button a:hover {
+    background-color: #16a085; /* Darker shade on hover */
+    color: #fff;
+    border-bottom: none; /* Ensure no border appears on hover */
+}
+
+/* Mobile Menu Icon */
+.menu-icon {
+    display: none; /* Hide by default */
+    cursor: pointer;
+}
+
+.menu-icon .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    transition: all 0.3s ease-in-out;
+    background-color: #fff; /* White bars */
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 960px) {
+    .navbar-container {
+        justify-content: space-between; /* Logo on left, icon on right */
+    }
+
+    .nav-menu {
+        display: flex; /* Use flex for column layout */
+        flex-direction: column; /* Stack items vertically */
+        width: 100%;
+        position: absolute;
+        top: 60px; /* Position below navbar */
+        left: -100%; /* Hide off-screen */
+        opacity: 1;
+        transition: all 0.5s ease;
+        background-color: #333; /* Match navbar background */
+        padding-bottom: 10px; /* Add some padding at the bottom */
+    }
+
+    .nav-menu.active {
+        left: 0; /* Slide in */
+        opacity: 1;
+        z-index: 1;
+    }
+
+    .nav-item {
+        width: 100%; /* Full width list items */
+        border-top: 1px solid #444; /* Separator lines */
+        height: auto; /* Adjust height */
+        line-height: normal; /* Reset line height */
+    }
+    
+    .nav-item:first-child {
+        border-top: none; /* No border for the first item */
+    }
+
+    .nav-link {
+        padding: 1rem; /* Adjust padding for mobile */
+        width: 100%;
+        display: block; /* Make links block level */
+        text-align: center;
+    }
+    
+    .nav-link:hover {
+        color: #1abc9c; 
+        background-color: #444; /* Add background hover for mobile */
+        border-bottom: none; /* Remove bottom border on hover */
+    }
+
+    .menu-icon {
+        display: block; /* Show hamburger icon */
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translate(-100%, 60%);
+        font-size: 1.8rem;
+    }
+
+    /* Hamburger animation */
+    .menu-icon.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .menu-icon.active .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+
+    .menu-icon.active .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+    .nav-item.nav-button a {
+        display: block; /* Ensure it takes full width in mobile menu */
+        margin: 10px 15px; /* Adjust margin for mobile */
+        padding: 12px 16px; /* Adjust padding for mobile */
+        text-align: center;
+    }
+}
+
+/* --- Responsive adjustments --- */
+/* Adjustments for medium screens (e.g., tablets) */
+@media screen and (max-width: 992px) {
+    .deal-card {
+        width: calc(50% - 20px); /* 2 cards per row */
+    }
+}
+
+/* Adjustments for small screens (e.g., mobile) */
+/* Keep the existing navbar query separate or merge if preferred */
+/* @media screen and (max-width: 960px) { ... navbar styles ... } */
+
+@media screen and (max-width: 768px) {
+    body {
+        padding-top: 50px; /* Slightly smaller navbar height potentially */
+    }
+
+    header h1 {
+        font-size: 1.8em; /* Adjust heading size */
+    }
+
+    header p {
+        font-size: 0.9em;
+    }
+
+    .deals-container {
+        flex-direction: column; /* Stack cards vertically */
+        align-items: center; /* Center cards in the column */
+        gap: 15px;
+    }
+
+    .deal-card {
+        width: 90%; /* Make cards take most of the width */
+        max-width: 400px; /* Optional max width for cards */
+    }
+
+    #newsletter-form {
+        flex-direction: column; /* Stack form elements */
+        align-items: stretch;
+    }
+
+    #newsletter-form input[type="email"] {
+        margin-bottom: 10px;
+        width: 100%; /* Full width input */
+    }
+
+    #newsletter-form button {
+        width: 100%; /* Full width button */
+    }
+
+    .newsletter h2, .about-section h2 {
+        font-size: 1.5em;
+    }
+}
+
+/* Optional: Apply bolder weight to headings if needed */
+h1, h2, h3 {
+    font-weight: 700; /* Use the bold weight we imported */
+}
+
+/* 404 Page Styles */
+.not-found-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: calc(100vh - 100px); /* Adjust height based on potential header/footer */
+    padding: 40px 20px;
+}
+
+.not-found-container h1 {
+    font-size: 6em; /* Large 404 number */
+    color: #ccc;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+.not-found-container h2 {
+    font-size: 2em;
+    color: #555;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.not-found-container p {
+    color: #666;
+    margin-bottom: 30px;
+    max-width: 400px;
+}
+
+.not-found-container .home-button {
+    padding: 12px 25px;
+    background-color: #3498db; /* Match affiliate button style */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: bold;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.not-found-container .home-button:hover {
+    background-color: #258cd1;
+    transform: scale(1.05);
+} 

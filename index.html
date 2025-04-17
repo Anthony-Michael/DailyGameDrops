@@ -3,7 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daily Game Drops</title>
+    
+    <!-- Recommended: Update your title tag -->
+    <title>Daily Game Drops - Best Free Games & Deals</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Find the latest free game drops and best deals from Steam, Epic Games Store, GOG, Humble Bundle, and more. Updated daily!">
+    <meta name="keywords" content="free games, game deals, pc gaming, steam deals, epic games free, gog deals, humble bundle, cheap games, game drops">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://YOUR_WEBSITE_URL_HERE/"> <!-- <<< REPLACE THIS -->
+    <meta property="og:title" content="Daily Game Drops - Best Free Games & Deals">
+    <meta property="og:description" content="Find the latest free game drops and best deals from Steam, Epic Games Store, GOG, Humble Bundle, and more. Updated daily!">
+    <meta property="og:image" content="https://YOUR_WEBSITE_URL_HERE/images/social-preview.png"> <!-- <<< REPLACE THIS with URL to a preview image (e.g., 1200x630px) -->
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://YOUR_WEBSITE_URL_HERE/"> <!-- <<< REPLACE THIS -->
+    <meta property="twitter:title" content="Daily Game Drops - Best Free Games & Deals">
+    <meta property="twitter:description" content="Find the latest free game drops and best deals from Steam, Epic Games Store, GOG, Humble Bundle, and more. Updated daily!">
+    <meta property="twitter:image" content="https://YOUR_WEBSITE_URL_HERE/images/social-preview.png"> <!-- <<< REPLACE THIS -->
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <!-- Optional: Add links for other sizes/formats if needed -->
+    <!-- <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> -->
+    <!-- <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> -->
+    <!-- <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> -->
+
     <link rel="stylesheet" href="style.css">
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-GL4WTG6DR2"></script>
@@ -16,6 +44,24 @@
     <!-- End Google Analytics -->
 </head>
 <body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <a href="#" class="navbar-logo">DailyGameDrops</a>
+            <div class="menu-icon" id="mobile-menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item"><a href="#" class="nav-link">Home</a></li> 
+                <li class="nav-item"><a href="#about" class="nav-link">About</a></li> <!-- Placeholder link -->
+                <li class="nav-item"><a href=".newsletter" class="nav-link">Newsletter</a></li> <!-- Link to newsletter section -->
+                <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li> <!-- Placeholder link -->
+                <li class="nav-item nav-button"><a href="#submit-deal" class="nav-link button-link">Submit a Deal</a></li> <!-- Placeholder -->
+            </ul>
+        </div>
+    </nav>
+
     <header>
         <h1>Daily Game Drops</h1>
         <p>Your source for the latest free games and deals!</p>
@@ -38,6 +84,11 @@
              <p id="newsletter-message"></p>
          </section>
     </main>
+
+    <section class="about-section" id="about">
+        <h2>About DailyGameDrops</h2>
+        <p>Our mission is to help gamers discover the best deals and free game drops every day. We track major platforms so you don't miss out on savings!</p>
+    </section>
 
     <footer>
         <p>&copy; <span id="year"></span> DailyGameDrops. All rights reserved.</p>
