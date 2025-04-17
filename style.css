@@ -208,14 +208,69 @@ header {
     border-top: 1px solid #eee;
     text-align: center;
     margin-top: 20px;
+    padding: 30px 20px; /* Slightly increased padding */
+}
+
+/* Styles for Why Join section */
+.newsletter .why-join {
+    margin-top: 30px; /* Space above the section */
+    font-size: 0.9em;
+    color: #555; 
+}
+
+.newsletter .why-join h4 {
+    margin-bottom: 10px;
+    font-size: 1.1em; /* Relative to parent */
+    color: #333; 
+    font-weight: bold;
+}
+
+.newsletter .why-join ul {
+    list-style: none; /* Remove default bullets */
+    padding-left: 0; /* Remove default padding */
+    margin: 0;
+    display: inline-block; /* Allows text-align: center on parent to work */
+    text-align: left; /* Align list items to the left */
+}
+
+.newsletter .why-join li {
+    margin-bottom: 8px; /* Space between items */
+    position: relative;
+    padding-left: 20px; /* Space for pseudo-element */
+}
+
+.newsletter .why-join li::before {
+    content: '\2713'; /* Checkmark character */
+    color: #27ae60; /* Green checkmark */
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-weight: bold;
 }
 
 footer {
     text-align: center;
     margin-top: 20px;
-    padding: 20px;
+    padding: 30px 20px; /* Increased padding */
     background-color: #333;
-    color: #fff;
+    color: #aaa; /* Slightly lighter color for main text */
+    font-size: 0.9em;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer .footer-link {
+    color: #ddd; /* Brighter color for links */
+    text-decoration: none;
+    margin: 0 5px; /* Add some space around the links */
+    transition: color 0.2s ease;
+}
+
+footer .footer-link:hover {
+    color: #fff; /* White on hover */
+    text-decoration: underline;
 }
 
 /* Navbar Styles */
@@ -500,4 +555,98 @@ h1, h2, h3 {
 .not-found-container .home-button:hover {
     background-color: #258cd1;
     transform: scale(1.05);
+}
+
+/* Deal Insights Section */
+.insights-section {
+    padding: 40px 20px;
+    background-color: #fff; /* White background or choose another */
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    text-align: center; /* Center the main heading */
+}
+
+.insights-section h2 {
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.insights-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px; /* Space between insight cards */
+    justify-content: center; 
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.insight-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #fdfdfd; /* Slightly off-white background */
+    padding: 25px;
+    width: calc(33.333% - 25px); /* Adjust based on gap */
+    min-width: 280px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    text-align: left;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.insight-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+}
+
+.insight-card h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.15em;
+    line-height: 1.4;
+    color: #34495e; /* Different heading color */
+}
+
+.insight-card p {
+    font-size: 0.95em;
+    color: #555;
+    margin-bottom: 20px;
+    flex-grow: 1; /* Push button to bottom */
+}
+
+.insight-card .insight-button {
+    align-self: flex-start; /* Align button to the left */
+    padding: 8px 18px;
+    background-color: #95a5a6; /* Different button color */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+    font-size: 0.9em;
+}
+
+.insight-card .insight-button:hover {
+    background-color: #7f8c8d;
+}
+
+/* Responsive adjustments for Insights */
+@media screen and (max-width: 992px) {
+    .insight-card {
+        width: calc(50% - 25px);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .insights-grid {
+        flex-direction: column;
+        align-items: center;
+    }
+    .insight-card {
+        width: 90%;
+        max-width: 450px;
+    }
+    .insights-section {
+        padding: 30px 15px;
+    }
 } 
