@@ -93,7 +93,7 @@ async function updateDeals() {
                 store: storeMap.get(deal.storeID) || 'Unknown Store',
                 platform: 'PC', // Assuming PC platform focus
                 // Placeholder affiliate link as requested
-                affiliateLink: `https://example.com/deal?title=${encodeURIComponent(deal.title || 'Unknown Title')}`,
+                affiliateLink: `https://dailygamedrops.com/track?game=${encodeURIComponent(deal.title || 'Unknown Title')}`,
                 // --- Additional useful info from CheapShark (Optional) ---
                 // cheapSharkDealID: deal.dealID,
                 // steamRatingPercent: deal.steamRatingPercent,
