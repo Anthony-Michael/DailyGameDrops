@@ -1,50 +1,112 @@
 [
   {
-    "title": "Elden Ring",
-    "imageUrl": "https://via.placeholder.com/300x150.png?text=Elden+Ring",
-    "currentPrice": "$35.99",
-    "originalPrice": "$59.99",
-    "discountPercent": 40, 
-    "platform": "PC",
-    "store": "Steam",
-    "affiliateLink": "https://your-affiliate-network.com/link?id=steam_elden_ring&user=your_id"
-  },
-  {
-    "title": "Ghost of Tsushima Director's Cut (Updated)",
-    "imageUrl": "https://via.placeholder.com/300x150.png?text=Ghost+of+Tsushima",
-    "isFree": true,
-    "originalPrice": "$49.99",
-    "platform": "PC",
+    "title": "Botanicula",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207690/capsule_sm_120.jpg?t=1743605648",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
     "store": "Epic Games Store",
-    "affiliateLink": "https://your-affiliate-network.com/link?id=epic_ghost_freebie&user=your_id"
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=Botanicula",
+    "isFree": true
   },
   {
-    "title": "Cyberpunk 2077: Ultimate Edition",
-    "imageUrl": "https://via.placeholder.com/300x150.png?text=Cyberpunk+Ultimate",
-    "currentPrice": "$40.19",
-    "originalPrice": "$59.99",
-    "discountPercent": 33,
+    "title": "Oddworld Complete Collection",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/23354333-102d-4486-b7f6-8cc9a32a4373.jpeg",
+    "originalPrice": "$84.92",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
     "platform": "PC",
-    "store": "GOG",
-    "affiliateLink": "https://your-affiliate-network.com/link?id=gog_cyberpunk_ultimate&user=your_id"
+    "affiliateLink": "https://dailygamedrops.com/track?game=Oddworld%20Complete%20Collection",
+    "isFree": false
   },
   {
-    "title": "Must-Play Metroidvanias Bundle",
-    "imageUrl": "https://via.placeholder.com/300x150.png?text=Metroidvania+Bundle",
-    "priceDescription": "Pay $10+ for 8 items",
-    "discountPercent": 95,
+    "title": "We Are The Dwarves",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/395570/capsule_sm_120.jpg?t=1682423383",
+    "originalPrice": "$39.99",
+    "currentPrice": "$0.79",
+    "discountPercent": "98%",
+    "store": "Humble Store",
     "platform": "PC",
-    "store": "Humble Bundle",
-    "affiliateLink": "https://your-affiliate-network.com/link?id=humble_metroidvania&user=your_id"
+    "affiliateLink": "https://dailygamedrops.com/track?game=We%20Are%20The%20Dwarves",
+    "isFree": false
   },
   {
-    "title": "Assassin's Creed Valhalla",
-    "imageUrl": "https://via.placeholder.com/300x150.png?text=AC+Valhalla",
-    "currentPrice": "$14.99",
-    "originalPrice": "$59.99",
-    "discountPercent": 75,
+    "title": "Whale Rock Bundle",
+    "imageUrl": "https://hb.imgix.net/e318bed74e7c26b4c1ec832e06a4bb9d7e788bc4.jpg?auto=compress,format&fit=crop&h=84&w=135&s=fb4a48c9596d16671a5bfbbb5b8cc1f3",
+    "originalPrice": "$39.99",
+    "currentPrice": "$0.79",
+    "discountPercent": "98%",
+    "store": "Humble Store",
     "platform": "PC",
-    "store": "Ubisoft Store",
-    "affiliateLink": "https://your-affiliate-network.com/link?id=ubi_ac_valhalla&user=your_id"
+    "affiliateLink": "https://dailygamedrops.com/track?game=Whale%20Rock%20Bundle",
+    "isFree": false
+  },
+  {
+    "title": "TimeLock VR",
+    "imageUrl": "https://sttc.gamersgate.com/images/product/timelock-vr/cover-180-3b7ba0.jpg",
+    "originalPrice": "$13.99",
+    "currentPrice": "$0.41",
+    "discountPercent": "97%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=TimeLock%20VR",
+    "isFree": false
+  },
+  {
+    "title": "Deployment",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/755980/capsule_sm_120.jpg?t=1695748760",
+    "originalPrice": "$17.99",
+    "currentPrice": "$0.53",
+    "discountPercent": "97%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=Deployment",
+    "isFree": false
+  },
+  {
+    "title": "Time Lock VR-2",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1724000/capsule_sm_120.jpg?t=1737493297",
+    "originalPrice": "$17.99",
+    "currentPrice": "$0.53",
+    "discountPercent": "97%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=Time%20Lock%20VR-2",
+    "isFree": false
+  },
+  {
+    "title": "Cyber Avenger",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/capsule_sm_120.jpg?t=1738147416",
+    "originalPrice": "$17.99",
+    "currentPrice": "$0.53",
+    "discountPercent": "97%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=Cyber%20Avenger",
+    "isFree": false
+  },
+  {
+    "title": "Cybernetic Fault",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1409740/capsule_sm_120.jpg?t=1738147285",
+    "originalPrice": "$18.99",
+    "currentPrice": "$0.56",
+    "discountPercent": "97%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=Cybernetic%20Fault",
+    "isFree": false
+  },
+  {
+    "title": "SPACE ACCIDENT",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1852830/643811a8e289b1f6eca9a5bedc32d5dc1379393c/capsule_sm_120.jpg?t=1738137695",
+    "originalPrice": "$19.99",
+    "currentPrice": "$0.59",
+    "discountPercent": "97%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=SPACE%20ACCIDENT",
+    "isFree": false
   }
-] 
+]
