@@ -7,6 +7,15 @@ const DEALS_ENDPOINT = `${API_BASE_URL}/deals?sortBy=Savings&pageSize=10&upperPr
 const STORES_ENDPOINT = `${API_BASE_URL}/stores`;
 const OUTPUT_FILE = path.join(__dirname, 'deals.json'); // Output file in the same directory as the script
 
+// --- Affiliate URL Prefixes ---
+const affiliatePrefixes = {
+  'Steam': 'https://dailygamedrops.com/affiliates/steam?dealID=',
+  'Humble Bundle': 'https://dailygamedrops.com/affiliates/humble?dealID=',
+  'GOG': 'https://dailygamedrops.com/affiliates/gog?dealID=',
+  'Epic Games Store': 'https://dailygamedrops.com/affiliates/epic?dealID=',
+  // Add more stores as needed
+};
+
 // --- Helper Functions ---
 
 /**
@@ -97,21 +106,24 @@ async function updateDeals() {
         console.log(`Processing ${validDeals.length} valid deals after filtering.`);
 
         const formattedDeals = validDeals.map(deal => {
-            // Basic format structure
+            // Determine store name for affiliate prefix lookup
+            const storeName = storeMap.get(deal.storeID) || 'Unknown Store';
+            const prefix = affiliatePrefixes[storeName] || 'https://dailygamedrops.com/track?game=';
+            // Construct affiliate link using dealID
             const formattedDeal = {
-                title: deal.title, // Already validated
-                imageUrl: deal.thumb || 'https://via.placeholder.com/300x150.png?text=No+Image', // Use fallback if thumb is missing/empty
-                originalPrice: formatPrice(deal.normalPrice), // Already validated
-                currentPrice: formatPrice(deal.salePrice), // Already validated
+                title: deal.title,
+                imageUrl: deal.thumb || 'https://via.placeholder.com/300x150.png?text=No+Image',
+                originalPrice: formatPrice(deal.normalPrice),
+                currentPrice: formatPrice(deal.salePrice),
                 discountPercent: `${Math.round(parseFloat(deal.savings || 0))}%`,
-                store: storeMap.get(deal.storeID) || 'Unknown Store',
-                platform: 'PC', // Assuming PC platform focus
-                affiliateLink: `https://dailygamedrops.com/track?game=${encodeURIComponent(deal.title)}`, // Already validated title
+                store: storeName,
+                platform: 'PC',
+                affiliateLink: `${prefix}${encodeURIComponent(deal.dealID)}`,
             };
 
-             // Determine if it's free
-             const currentPriceNum = parseFloat(deal.salePrice);
-             formattedDeal.isFree = currentPriceNum === 0;
+            // Determine if it's free
+            const currentPriceNum = parseFloat(deal.salePrice);
+            formattedDeal.isFree = currentPriceNum === 0;
 
             return formattedDeal;
         }).slice(0, 10); // Ensure only top 10 are kept (applied after filtering and mapping)
