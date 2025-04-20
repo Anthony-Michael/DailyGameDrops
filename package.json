@@ -1,23 +1,14 @@
 {
   "name": "dailygamedrops",
   "version": "1.0.0",
-  "description": "",
-  "main": "fetch-deals.js",
+  "description": "Daily game deals aggregator",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Anthony-Michael/DailyGameDrops.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Anthony-Michael/DailyGameDrops/issues"
-  },
-  "homepage": "https://github.com/Anthony-Michael/DailyGameDrops#readme",
-  "dependencies": {
-    "node-fetch": "^3.3.2"
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
   }
 }

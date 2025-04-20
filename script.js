@@ -8,27 +8,51 @@ document.addEventListener('DOMContentLoaded', () => {
   // Handle newsletter signup form
   const newsletterForm = document.getElementById('newsletter-form');
   const emailInput = document.getElementById('email-input');
-  const newsletterMessage = document.getElementById('newsletter-message');
+  const newsletterContainer = document.getElementById('newsletter-container');
+  const newsletterError = document.getElementById('newsletter-error');
 
-  if (newsletterForm && emailInput && newsletterMessage) {
-    newsletterForm.addEventListener('submit', (event) => {
+  if (newsletterForm && emailInput) {
+    newsletterForm.addEventListener('submit', async (event) => {
       event.preventDefault();
+      
+      // Clear any previous error messages
+      newsletterError.style.display = 'none';
+      newsletterError.textContent = '';
+      
       const email = emailInput.value.trim();
-      newsletterMessage.classList.remove('fade-out');
-      newsletterMessage.style.opacity = 1;
-      if (email && email.includes('@')) {
-        newsletterMessage.textContent = `Thanks for subscribing, ${email}!`;
-        newsletterMessage.style.color = 'green';
-        emailInput.value = '';
-      } else {
-        newsletterMessage.textContent = 'Please enter a valid email address.';
-        newsletterMessage.style.color = 'red';
+      
+      if (!email || !email.includes('@')) {
+        newsletterError.textContent = 'Please enter a valid email address.';
+        newsletterError.style.display = 'block';
+        return;
       }
-      requestAnimationFrame(() => {
-        requestAnimationFrame(() => {
-          newsletterMessage.classList.add('fade-out');
+
+      try {
+        const response = await fetch(import.meta.env.PUBLIC_API_URL, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ email })
         });
-      });
+
+        if (!response.ok) {
+          throw new Error('Newsletter signup failed');
+        }
+
+        // Show success message
+        newsletterContainer.innerHTML = `
+          <div class="newsletter-success">
+            <p>Thanks for subscribing! 🎮</p>
+            <p>Check your email to confirm your subscription.</p>
+          </div>
+        `;
+
+      } catch (error) {
+        console.error('Newsletter signup error:', error);
+        newsletterError.textContent = 'Sorry, something went wrong. Please try again later.';
+        newsletterError.style.display = 'block';
+      }
     });
   }
 
@@ -74,49 +98,40 @@ document.addEventListener('DOMContentLoaded', () => {
   fetchDeals();
 });
 
+// DOM Elements
+const dealsContainer = document.getElementById('deals-container');
+const loadingSpinner = document.getElementById('loading-spinner');
+const errorMessage = document.getElementById('error-message');
+
+// Hide loading spinner and error message initially
+loadingSpinner.style.display = 'none';
+errorMessage.style.display = 'none';
+
 async function fetchDeals() {
-  const dealsContainer = document.getElementById('deals-container');
-  const loader = document.getElementById('loader');
-  if (!dealsContainer || !loader) {
-    console.error('Deals container or loader not found!');
-    if (dealsContainer)
-      dealsContainer.innerHTML =
-        '<p style="color: red; text-align: center;">Error: UI elements missing.</p>';
-    return;
-  }
-  dealsContainer.innerHTML = '';
-  dealsContainer.appendChild(loader);
-  loader.style.display = 'block';
-  try {
-    console.log("Fetching deals from deals.json...");
-    const response = await fetch('deals.json');
-    if (!response.ok) {
-      throw new Error(`Failed to fetch deals. Status: ${response.status}`);
+    // Show loading spinner, hide error message
+    loadingSpinner.style.display = 'block';
+    errorMessage.style.display = 'none';
+    dealsContainer.style.display = 'none';
+
+    try {
+        const response = await fetch('deals.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const deals = await response.json();
+        displayDeals(deals);
+        
+        // Hide loading spinner, show deals
+        loadingSpinner.style.display = 'none';
+        dealsContainer.style.display = 'grid';
+    } catch (error) {
+        console.error('Error fetching deals:', error);
+        
+        // Hide loading spinner and deals, show error message
+        loadingSpinner.style.display = 'none';
+        dealsContainer.style.display = 'none';
+        errorMessage.style.display = 'block';
     }
-    const deals = await response.json();
-    console.log('Deals loaded:', deals);
-    loader.style.display = 'none';
-    dealsContainer.innerHTML = '';
-    if (!deals || deals.length === 0) {
-      dealsContainer.innerHTML =
-        '<p style="text-align: center; padding: 20px;">No deals found today. Check back later!</p>';
-      return;
-    }
-    deals.forEach(deal => {
-      const cardElement = createDealCard(deal);
-      dealsContainer.appendChild(cardElement);
-    });
-  } catch (error) {
-    console.error('Error fetching or processing deals:', error);
-    loader.style.display = 'none';
-    dealsContainer.innerHTML = `
-      <div style="color: red; text-align: center; padding: 40px;">
-          <p><strong>Oops! Could not load game deals.</strong></p>
-          <p>${error.message}</p>
-          <p>Please try refreshing the page later.</p>
-      </div>
-    `;
-  }
 }
 
 function createDealCard(deal) {

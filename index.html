@@ -68,6 +68,10 @@
     </header>
 
     <main>
+        <div id="loading-spinner">Loading deals...</div>
+        <div id="error-message">
+            <p>Error loading deals. Please try again later.</p>
+        </div>
         <section class="deals-container" id="deals-container">
             <!-- Initial Loader Message -->
             <div class="loader" id="loader">Loading today's deals...</div>
@@ -98,11 +102,13 @@
         <section class="newsletter">
              <h2>Stay Updated!</h2>
              <p>Sign up for our newsletter to get deals delivered to your inbox.</p>
-             <form id="newsletter-form">
-                 <input type="email" id="email-input" placeholder="Enter your email" required>
-                 <button type="submit">Subscribe</button>
-             </form>
-             <p id="newsletter-message"></p>
+             <div id="newsletter-container">
+                 <form id="newsletter-form">
+                     <input type="email" id="email-input" placeholder="Enter your email" required>
+                     <button type="submit">Subscribe</button>
+                     <div id="newsletter-error" class="newsletter-error"></div>
+                 </form>
+             </div>
 
              <div class="why-join">
                 <h4>Why Join?</h4>
@@ -127,6 +133,6 @@
         </p>
     </footer>
 
-    <script src="script.js" defer></script>
+    <script type="module" src="/script.js"></script>
 </body>
 </html> 

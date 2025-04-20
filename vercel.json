@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "env": {
+    "NEWSLETTER_API_URL": "@newsletter_api_url",
+    "NEWSLETTER_API_KEY": "@newsletter_api_key",
+    "PUBLIC_API_URL": "/api/subscribe"
+  }
+} 
