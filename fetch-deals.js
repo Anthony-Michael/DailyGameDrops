@@ -80,24 +80,33 @@ async function updateDeals() {
 
     try {
         const dealsData = await fetchData(DEALS_ENDPOINT);
-        console.log(`Fetched ${dealsData.length} deals from CheapShark.`);
+        console.log(`Fetched ${dealsData.length} raw deals from CheapShark.`);
 
-        const formattedDeals = dealsData.map(deal => {
+        // Filter first, then map
+        const validDeals = dealsData.filter(deal => {
+            const hasTitle = deal.title && deal.title.trim() !== '';
+            const hasSalePrice = deal.salePrice !== null && deal.salePrice !== undefined && deal.salePrice !== '';
+            const hasNormalPrice = deal.normalPrice !== null && deal.normalPrice !== undefined && deal.normalPrice !== '';
+            if (!hasTitle || !hasSalePrice || !hasNormalPrice) {
+                console.warn(`Skipping deal due to missing data: ${deal.title || '(no title)'} (ID: ${deal.dealID})`);
+                return false; // Exclude this deal
+            }
+            return true; // Include this deal
+        });
+
+        console.log(`Processing ${validDeals.length} valid deals after filtering.`);
+
+        const formattedDeals = validDeals.map(deal => {
             // Basic format structure
             const formattedDeal = {
-                title: deal.title || 'Unknown Title',
-                imageUrl: deal.thumb || null, // Use 'thumb' for image
-                originalPrice: formatPrice(deal.normalPrice),
-                currentPrice: formatPrice(deal.salePrice),
+                title: deal.title, // Already validated
+                imageUrl: deal.thumb || 'https://via.placeholder.com/300x150.png?text=No+Image', // Use fallback if thumb is missing/empty
+                originalPrice: formatPrice(deal.normalPrice), // Already validated
+                currentPrice: formatPrice(deal.salePrice), // Already validated
                 discountPercent: `${Math.round(parseFloat(deal.savings || 0))}%`,
                 store: storeMap.get(deal.storeID) || 'Unknown Store',
                 platform: 'PC', // Assuming PC platform focus
-                // Placeholder affiliate link as requested
-                affiliateLink: `https://dailygamedrops.com/track?game=${encodeURIComponent(deal.title || 'Unknown Title')}`,
-                // --- Additional useful info from CheapShark (Optional) ---
-                // cheapSharkDealID: deal.dealID,
-                // steamRatingPercent: deal.steamRatingPercent,
-                // releaseDate: deal.releaseDate ? new Date(deal.releaseDate * 1000).toLocaleDateString() : 'N/A',
+                affiliateLink: `https://dailygamedrops.com/track?game=${encodeURIComponent(deal.title)}`, // Already validated title
             };
 
              // Determine if it's free
@@ -105,9 +114,9 @@ async function updateDeals() {
              formattedDeal.isFree = currentPriceNum === 0;
 
             return formattedDeal;
-        }).slice(0, 10); // Ensure only top 10 are kept
+        }).slice(0, 10); // Ensure only top 10 are kept (applied after filtering and mapping)
 
-        console.log(`Formatted ${formattedDeals.length} deals.`);
+        console.log(`Formatted ${formattedDeals.length} deals for output.`);
 
         // Write to deals.json
         fs.writeFileSync(OUTPUT_FILE, JSON.stringify(formattedDeals, null, 2)); // Pretty print JSON

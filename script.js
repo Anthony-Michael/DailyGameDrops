@@ -146,8 +146,14 @@ function createDealCard(deal) {
   }
   let buttonText = deal.isFree ? 'Claim Free Game' : 'Get Deal';
   if (deal.store === 'Humble Bundle') buttonText = 'View Bundle';
+  
+  const imageUrl = deal.imageUrl || 'https://via.placeholder.com/300x150.png?text=No+Image';
+  const imageAlt = deal.title || 'Game Deal';
+
   card.innerHTML = `
-    <img src="${deal.imageUrl || 'https://via.placeholder.com/300x150.png?text=No+Image'}" alt="${deal.title || 'Game Deal'}">
+    <div class="deal-image-wrapper">
+      <img src="${imageUrl}" alt="${imageAlt}">
+    </div>
     <div class="card-content">
         <h3>${deal.title || 'Unknown Deal'}</h3>
         <p class="details">Platform: ${deal.platform || 'N/A'} | Store: ${deal.store || 'N/A'}</p>
