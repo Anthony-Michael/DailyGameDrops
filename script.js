@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       try {
-        const response = await fetch(import.meta.env.PUBLIC_API_URL, {
+        const response = await fetch(import.meta.env.NEWSLETTER_API_URL, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
