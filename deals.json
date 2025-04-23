@@ -11,6 +11,61 @@
     "isFree": true
   },
   {
+    "title": "Working With Linux Bundle 3rd Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/f98195c3-c41f-49b2-86dc-87b6508cf30e.jpeg",
+    "originalPrice": "$159.96",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=hai%252BgNNcY6KRdyzzsh%252BuHVchtEd3%252BtttkLOcD6ptuw8%253D",
+    "isFree": false
+  },
+  {
+    "title": "Networking Bundle 2nd Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/3bed2485-a618-4b5f-ab35-9b5ff2a0e4b7.jpeg",
+    "originalPrice": "$157.96",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=WppcRJs7H6y4Jpl8QGY8cl0YFeLNUpngs4B9RzmajYs%253D",
+    "isFree": false
+  },
+  {
+    "title": "Creative Animation and Design Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/449413df-94e4-4e20-ba65-3ed7f3254523.jpeg",
+    "originalPrice": "$157.96",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=qeSbQdUiVtpDUdMvHnZpExDY6HOENB2ZvIP9uwjIeY0%253D",
+    "isFree": false
+  },
+  {
+    "title": "C 4th Edition Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/727457a2-e9b9-42c1-ac59-5313f8e239ea.jpeg",
+    "originalPrice": "$145.96",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=hgT%252Byq8StT%252BQgmrEvsTsjg1sRb3Q5Xt4THem%252FMcb%252F0c%253D",
+    "isFree": false
+  },
+  {
+    "title": "Data Science Bundle 3rd Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/4cac9828-b010-4daa-a186-24a780e7ee3c.jpeg",
+    "originalPrice": "$139.96",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=9h%252BdPgiqbTa9EOGDyN7fL11hBtbxqqve1fOhjjqhTUU%253D",
+    "isFree": false
+  },
+  {
     "title": "Oddworld Complete Collection",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/23354333-102d-4486-b7f6-8cc9a32a4373.jpeg",
     "originalPrice": "$84.92",
@@ -44,69 +99,14 @@
     "isFree": false
   },
   {
-    "title": "TimeLock VR",
-    "imageUrl": "https://sttc.gamersgate.com/images/product/timelock-vr/cover-180-3b7ba0.jpg",
-    "originalPrice": "$13.99",
-    "currentPrice": "$0.41",
-    "discountPercent": "97%",
-    "store": "Humble Store",
+    "title": "Design Tools Mastery eLearning Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/895bd26e-a725-4dab-b698-ded8201c47a1.jpeg",
+    "originalPrice": "$215.92",
+    "currentPrice": "$5.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=VKKpwRqx5g%252BR4LbTjDgnSSzWXl%252FY3Cqu421XZyEe9QU%253D",
-    "isFree": false
-  },
-  {
-    "title": "Deployment",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/755980/capsule_sm_120.jpg?t=1695748760",
-    "originalPrice": "$17.99",
-    "currentPrice": "$0.53",
-    "discountPercent": "97%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=9jvVAASq0AJTC%252BA1GgOJKGT7lTcjWfTmBFR5t1ynLRI%253D",
-    "isFree": false
-  },
-  {
-    "title": "Time Lock VR-2",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1724000/capsule_sm_120.jpg?t=1737493297",
-    "originalPrice": "$17.99",
-    "currentPrice": "$0.53",
-    "discountPercent": "97%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=z2DszbeMNFvhtJ%252Bch63fzn03bdqEDNJlkyV3yJBwZwk%253D",
-    "isFree": false
-  },
-  {
-    "title": "Cyber Avenger",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/capsule_sm_120.jpg?t=1738147416",
-    "originalPrice": "$17.99",
-    "currentPrice": "$0.53",
-    "discountPercent": "97%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
-    "isFree": false
-  },
-  {
-    "title": "Cybernetic Fault",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1409740/capsule_sm_120.jpg?t=1738147285",
-    "originalPrice": "$18.99",
-    "currentPrice": "$0.56",
-    "discountPercent": "97%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=XgMyzwxeVj2jJ%252F1TpZ%252BvxA%252FxZ0nCp1nWkp5F1haJS50%253D",
-    "isFree": false
-  },
-  {
-    "title": "SPACE ACCIDENT",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1852830/643811a8e289b1f6eca9a5bedc32d5dc1379393c/capsule_sm_120.jpg?t=1738137695",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.59",
-    "discountPercent": "97%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=6vMT3vHnM39Pct29YmsFKINeQUrtR5LNS7pskxCEGtA%253D",
+    "affiliateLink": "https://dailygamedrops.com/track?game=gtr0VQoHlrPhB%252BF66OpeVhtdyrHkAHdoakumIzO61VQ%253D",
     "isFree": false
   }
 ]
