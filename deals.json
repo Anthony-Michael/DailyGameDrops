@@ -66,6 +66,17 @@
     "isFree": false
   },
   {
+    "title": "Whale Rock Bundle",
+    "imageUrl": "https://hb.imgix.net/e318bed74e7c26b4c1ec832e06a4bb9d7e788bc4.jpg?auto=compress,format&fit=crop&h=84&w=135&s=fb4a48c9596d16671a5bfbbb5b8cc1f3",
+    "originalPrice": "$53.99",
+    "currentPrice": "$0.53",
+    "discountPercent": "99%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=uiYyPcazRtPoQ3NIMridVxNso2NQZs7d85R790cS%252FHE%253D",
+    "isFree": false
+  },
+  {
     "title": "Oddworld Complete Collection",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/23354333-102d-4486-b7f6-8cc9a32a4373.jpeg",
     "originalPrice": "$84.92",
@@ -88,25 +99,14 @@
     "isFree": false
   },
   {
-    "title": "We Are The Dwarves",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/395570/capsule_sm_120.jpg?t=1745656774",
-    "originalPrice": "$39.99",
-    "currentPrice": "$0.79",
+    "title": "Deployment",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/755980/capsule_sm_120.jpg?t=1745661250",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.29",
     "discountPercent": "98%",
     "store": "Humble Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=Y%252FeheAGiTDOcIx5%252BLh5tPapNtF%252BGtKaJK%252Bgu%252B6qH1DA%253D",
-    "isFree": false
-  },
-  {
-    "title": "Whale Rock Bundle",
-    "imageUrl": "https://hb.imgix.net/e318bed74e7c26b4c1ec832e06a4bb9d7e788bc4.jpg?auto=compress,format&fit=crop&h=84&w=135&s=fb4a48c9596d16671a5bfbbb5b8cc1f3",
-    "originalPrice": "$39.99",
-    "currentPrice": "$0.79",
-    "discountPercent": "98%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=uiYyPcazRtPoQ3NIMridVxNso2NQZs7d85R790cS%252FHE%253D",
+    "affiliateLink": "https://dailygamedrops.com/track?game=9jvVAASq0AJTC%252BA1GgOJKGT7lTcjWfTmBFR5t1ynLRI%253D",
     "isFree": false
   }
 ]
