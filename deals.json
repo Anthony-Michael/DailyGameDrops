@@ -77,17 +77,6 @@
     "isFree": false
   },
   {
-    "title": "Oddworld Complete Collection",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/23354333-102d-4486-b7f6-8cc9a32a4373.jpeg",
-    "originalPrice": "$84.92",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=9lP9Ncq%252BcetOpXbGdEB902FBbgbMIkP204D8wVrXbNc%253D",
-    "isFree": false
-  },
-  {
     "title": "Embr 4 Pack",
     "imageUrl": "https://hb.imgix.net/27d8060c0457a56d8f53d3cc9a3831e76eab0673.png?auto=compress,format&fit=crop&h=84&w=135&s=4cbb5966638e54c903579eacaec88654",
     "originalPrice": "$79.96",
@@ -107,6 +96,17 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=9jvVAASq0AJTC%252BA1GgOJKGT7lTcjWfTmBFR5t1ynLRI%253D",
+    "isFree": false
+  },
+  {
+    "title": "Cyber Avenger",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/capsule_sm_120.jpg?t=1745656785",
+    "originalPrice": "$17.99",
+    "currentPrice": "$0.35",
+    "discountPercent": "98%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
     "isFree": false
   }
 ]
