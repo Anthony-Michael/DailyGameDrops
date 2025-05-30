@@ -1,46 +1,24 @@
 [
   {
-    "title": "Warhammer 40,000: Rites of War",
-    "imageUrl": "https://images.gog-statics.com/958a1e4668c50f72d2daffb9875bfa4437055f1b7507f16263654d96ceb29a60_product_tile_117h.webp",
-    "originalPrice": "$5.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "GOG",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=tyiCjMnZ%252FohvDPpnoDoB0zXYE45w1hbmyLEg6Z06ra8%253D",
-    "isFree": true
-  },
-  {
-    "title": "Sifu",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/capsule_sm_120.jpg?t=1734256859",
-    "originalPrice": "$39.99",
+    "title": "Tiny Tinas Wonderlands",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1286680/capsule_sm_120.jpg?t=1737970341",
+    "originalPrice": "$59.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=6D9a3hJ27Y2%252FpKWeZXn%252BXxpjQSwbKVKROT6mHyREiAE%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=piCMT%252BDqeXM4hyxtIyaR2idAtdyVTD87ceR0Umq2eBg%253D",
     "isFree": true
   },
   {
-    "title": "Gigapocalypse",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1543240/capsule_sm_120.jpg?t=1717675142",
+    "title": "LIMBO",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48000/capsule_sm_120.jpg?t=1726749481",
     "originalPrice": "$9.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=BEfFubuUiuEmDOIyBl1eBqC9ELYuyRMvHjmKQMs42EI%253D",
-    "isFree": true
-  },
-  {
-    "title": "Deliver at all Costs",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1880610/f56e56f1a8e6f8c9d49834a604636106f4d9b358/capsule_sm_120.jpg?t=1747926130",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=VS8StdNYNZ8Z0z%252BPME0BhXQxvh8NbTIJeF9CjwVPxNs%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=7mLfUlDp%252FyWaFoYbl1hiHT5Ds7ZhWcj4pg7F3xxeGf0%253D",
     "isFree": true
   },
   {
@@ -99,14 +77,36 @@
     "isFree": false
   },
   {
-    "title": "Whale Rock Bundle",
-    "imageUrl": "https://hb.imgix.net/e318bed74e7c26b4c1ec832e06a4bb9d7e788bc4.jpg?auto=compress,format&fit=crop&h=84&w=135&s=fb4a48c9596d16671a5bfbbb5b8cc1f3",
+    "title": "Whale Rock All Games Bundle",
+    "imageUrl": "https://images.gog-statics.com/52f7d25a23970dbdaad859fb6fa3192a25b15a71ebf3322d863a5272e63bc172_product_tile_117h.webp",
     "originalPrice": "$53.99",
     "currentPrice": "$0.53",
     "discountPercent": "99%",
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=uiYyPcazRtPoQ3NIMridVxNso2NQZs7d85R790cS%252FHE%253D",
+    "isFree": false
+  },
+  {
+    "title": "Old School and New Sounds Royalty Free Music Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/644d33d1-a03d-474d-ba69-512717aebc5f.jpeg",
+    "originalPrice": "$60.00",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=yplDRaMQXq9kCUQb0WoJL%252FA1oGcr%252FQ3j4SNCm%252FhVk20%253D",
+    "isFree": false
+  },
+  {
+    "title": "Epic Game Character Voices and Sounds Bundle 2",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/e4af303f-64ca-41ad-9aa5-5d3adc2e88f0.jpeg",
+    "originalPrice": "$157.00",
+    "currentPrice": "$2.99",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=SAS%252BaHe3S4IhU2F7HnABy1MNqZ1mvzthqWQr5pkYa8w%253D",
     "isFree": false
   }
 ]
