@@ -1,16 +1,5 @@
 [
   {
-    "title": "Warhammer 40,000: Gladius - Relics of War",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489630/capsule_sm_120.jpg?t=1747933905",
-    "originalPrice": "$39.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "GOG",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=Kn6InkmSM2sJ%252FBNdo5QZqjCPjA04HlE8BaAkCq9AMc4%253D",
-    "isFree": true
-  },
-  {
     "title": "DEATHLOOP",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1252330/capsule_sm_120.jpg?t=1705940190",
     "originalPrice": "$59.99",
@@ -107,6 +96,17 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=uiYyPcazRtPoQ3NIMridVxNso2NQZs7d85R790cS%252FHE%253D",
+    "isFree": false
+  },
+  {
+    "title": "Old School and New Sounds Royalty Free Music Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/644d33d1-a03d-474d-ba69-512717aebc5f.jpeg",
+    "originalPrice": "$60.00",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=yplDRaMQXq9kCUQb0WoJL%252FA1oGcr%252FQ3j4SNCm%252FhVk20%253D",
     "isFree": false
   }
 ]
