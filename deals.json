@@ -88,6 +88,17 @@
     "isFree": false
   },
   {
+    "title": "The Game Designers Music and SFX Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/18240000-be44-451a-a7a5-6ddb9cad5432.jpeg",
+    "originalPrice": "$90.00",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=y9jszOrlp3oCd9u6zo9NP4ZU0oIFFmtE3xxQfLZnp88%253D",
+    "isFree": false
+  },
+  {
     "title": "Old School and New Sounds Royalty Free Music Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/644d33d1-a03d-474d-ba69-512717aebc5f.jpeg",
     "originalPrice": "$60.00",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=yplDRaMQXq9kCUQb0WoJL%252FA1oGcr%252FQ3j4SNCm%252FhVk20%253D",
-    "isFree": false
-  },
-  {
-    "title": "Epic Game Character Voices and Sounds Bundle 2",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/e4af303f-64ca-41ad-9aa5-5d3adc2e88f0.jpeg",
-    "originalPrice": "$157.00",
-    "currentPrice": "$2.99",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=SAS%252BaHe3S4IhU2F7HnABy1MNqZ1mvzthqWQr5pkYa8w%253D",
     "isFree": false
   }
 ]
