@@ -1,5 +1,16 @@
 [
   {
+    "title": "Sable",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/757310/capsule_sm_120.jpg?t=1750935056",
+    "originalPrice": "$24.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=lzmxLmALbFg8ZOzLPSwHfWnETnRFi%252F0%252B2Cc6gD%252BIPqA%253D",
+    "isFree": true
+  },
+  {
     "title": "Lynn , HD WallPaper",
     "imageUrl": "https://images.gog-statics.com/5b90046011b649b63e7f36a831d35a61eb08c286da71bb1304d162cca1f3c8df_product_tile_117h.webp",
     "originalPrice": "$0.99",
@@ -8,17 +19,6 @@
     "store": "GOG",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=yPoJRu9DazC7%252FN7EshNfE7hjN2sdveH0e0B1H%252FMZ1Jw%253D",
-    "isFree": true
-  },
-  {
-    "title": "The Operator",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771980/capsule_sm_120.jpg?t=1745441709",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=GOfOXWsy%252FChyDMJYFAIk2Fmn4qyKgm3R9xblfkUk2T4%253D",
     "isFree": true
   },
   {
