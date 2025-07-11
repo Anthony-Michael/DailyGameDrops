@@ -1,35 +1,24 @@
 [
   {
-    "title": "Figment",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/493540/capsule_sm_120.jpg?t=1729500541",
-    "originalPrice": "$19.99",
+    "title": "Sky Racket",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/994500/capsule_sm_120.jpg?t=1720809366",
+    "originalPrice": "$14.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=lOwn8iew3B8Xc2lbl4JTj7qSqDmYK4u9bEz8Adx7QXU%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=FwZ8ww6mGktS0mi0xUXLZztrHseGWey0y2YTgVc%252BNbc%253D",
     "isFree": true
   },
   {
-    "title": "Lynn , HD WallPaper",
-    "imageUrl": "https://images.gog-statics.com/5b90046011b649b63e7f36a831d35a61eb08c286da71bb1304d162cca1f3c8df_product_tile_117h.webp",
-    "originalPrice": "$0.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "GOG",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=yPoJRu9DazC7%252FN7EshNfE7hjN2sdveH0e0B1H%252FMZ1Jw%253D",
-    "isFree": true
-  },
-  {
-    "title": "Backpack Hero",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1970580/capsule_sm_120.jpg?t=1750843492",
-    "originalPrice": "$19.99",
+    "title": "Figment 2: Creed Valley",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085220/capsule_sm_120.jpg?t=1729500878",
+    "originalPrice": "$24.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=%252BEz68Mb8Rb3Zit6my1eMOos3J2qHMNl6C9%252FSziYNg5o%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=sY4qVR1Fi6NxTumdi4VLkPtwMSC0FEwJiq6l1v%252FstXE%253D",
     "isFree": true
   },
   {
@@ -107,6 +96,17 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=y9jszOrlp3oCd9u6zo9NP4ZU0oIFFmtE3xxQfLZnp88%253D",
+    "isFree": false
+  },
+  {
+    "title": "Old School and New Sounds Royalty Free Music Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/644d33d1-a03d-474d-ba69-512717aebc5f.jpeg",
+    "originalPrice": "$60.00",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=yplDRaMQXq9kCUQb0WoJL%252FA1oGcr%252FQ3j4SNCm%252FhVk20%253D",
     "isFree": false
   }
 ]
