@@ -88,6 +88,17 @@
     "isFree": false
   },
   {
+    "title": "Hobbies and Life Skills For Dummies Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/6af88f37-5016-4117-b0f0-fe161c8ae083.jpeg",
+    "originalPrice": "$69.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=lzO64X3A58HiRL%252B%252BvWiTKr1ETS639nTC4s7u9b77YBk%253D",
+    "isFree": false
+  },
+  {
     "title": "Classic Gems 2nd Ed by Dark Horse Comic Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/e7d15b83-dfb8-40f3-a78f-5e3a89cff25f.jpeg",
     "originalPrice": "$53.95",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=bg4L2YaYJS9cE%252BnB3yYFL%252BKEs9Wh6CToIfp9aqnFLNY%253D",
-    "isFree": false
-  },
-  {
-    "title": "Deployment",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/755980/capsule_sm_120.jpg?t=1745661250",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.29",
-    "discountPercent": "98%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=9jvVAASq0AJTC%252BA1GgOJKGT7lTcjWfTmBFR5t1ynLRI%253D",
     "isFree": false
   }
 ]
