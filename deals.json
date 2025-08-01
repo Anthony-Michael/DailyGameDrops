@@ -1,13 +1,24 @@
 [
   {
-    "title": "Legion TD 2",
-    "imageUrl": "https://hb.imgix.net/5ca2756310c17e8888f88c68aa28e54a2a573a9c.jpg?auto=compress,format&fit=crop&h=84&w=135&s=d06877105a73b0dc8d6d2625373e9868",
+    "title": "Pilgrims",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1049280/capsule_sm_120.jpg?t=1743605932",
+    "originalPrice": "$6.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=PA341aSqHMxzLhfWcygRWgo%252BfR%252Fi0yoABoEg%252B0A2uQg%253D",
+    "isFree": true
+  },
+  {
+    "title": "Keylocker  Turn Based Cyberpunk Action",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1325040/ed8f46afa234db7586ec636e33c6a0f0797eb2be/capsule_sm_120.jpg?t=1752857108",
     "originalPrice": "$19.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=C6S98rEaoCEEGks5PJyIs7WiOWPpotNTA8RyXRM%252BetQ%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=6%252B0oJBJzNNACQ3XkqslJqsnWb56nuby4oGzuyideDBw%253D",
     "isFree": true
   },
   {
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=lzO64X3A58HiRL%252B%252BvWiTKr1ETS639nTC4s7u9b77YBk%253D",
-    "isFree": false
-  },
-  {
-    "title": "Classic Gems 2nd Ed by Dark Horse Comic Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/e7d15b83-dfb8-40f3-a78f-5e3a89cff25f.jpeg",
-    "originalPrice": "$53.95",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=bg4L2YaYJS9cE%252BnB3yYFL%252BKEs9Wh6CToIfp9aqnFLNY%253D",
     "isFree": false
   }
 ]
