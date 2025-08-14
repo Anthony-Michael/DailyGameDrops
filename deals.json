@@ -88,17 +88,6 @@
     "isFree": false
   },
   {
-    "title": "The Game Designers Music and SFX Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/18240000-be44-451a-a7a5-6ddb9cad5432.jpeg",
-    "originalPrice": "$90.00",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=y9jszOrlp3oCd9u6zo9NP4ZU0oIFFmtE3xxQfLZnp88%253D",
-    "isFree": false
-  },
-  {
     "title": "Hobbies and Life Skills For Dummies Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/6af88f37-5016-4117-b0f0-fe161c8ae083.jpeg",
     "originalPrice": "$69.97",
@@ -107,6 +96,17 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=lzO64X3A58HiRL%252B%252BvWiTKr1ETS639nTC4s7u9b77YBk%253D",
+    "isFree": false
+  },
+  {
+    "title": "Classic Gems 2nd Ed by Dark Horse Comic Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/e7d15b83-dfb8-40f3-a78f-5e3a89cff25f.jpeg",
+    "originalPrice": "$53.95",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=bg4L2YaYJS9cE%252BnB3yYFL%252BKEs9Wh6CToIfp9aqnFLNY%253D",
     "isFree": false
   }
 ]
