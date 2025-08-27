@@ -11,6 +11,17 @@
     "isFree": true
   },
   {
+    "title": "Lynn , HD WallPaper",
+    "imageUrl": "https://images.gog-statics.com/5b90046011b649b63e7f36a831d35a61eb08c286da71bb1304d162cca1f3c8df_product_tile_117h.webp",
+    "originalPrice": "$0.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "GOG",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=yPoJRu9DazC7%252FN7EshNfE7hjN2sdveH0e0B1H%252FMZ1Jw%253D",
+    "isFree": true
+  },
+  {
     "title": "Kamaeru",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-de4xb.png",
     "originalPrice": "$19.99",
@@ -96,17 +107,6 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=9jvVAASq0AJTC%252BA1GgOJKGT7lTcjWfTmBFR5t1ynLRI%253D",
-    "isFree": false
-  },
-  {
-    "title": "Cyber Avenger",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/999f5dd68c940b281def83a4b261698afd44c442/capsule_sm_120.jpg?t=1748541202",
-    "originalPrice": "$17.99",
-    "currentPrice": "$0.35",
-    "discountPercent": "98%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
     "isFree": false
   }
 ]
