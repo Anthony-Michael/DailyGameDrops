@@ -1,16 +1,5 @@
 [
   {
-    "title": "Strange Horticulture",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1574580/capsule_sm_120.jpg?t=1741961232",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=6vgiw%252B98cQZ8esBfVOTIzkTIXcAVfREY5%252FWcEGAXYno%253D",
-    "isFree": true
-  },
-  {
     "title": "Lynn , HD WallPaper",
     "imageUrl": "https://images.gog-statics.com/5b90046011b649b63e7f36a831d35a61eb08c286da71bb1304d162cca1f3c8df_product_tile_117h.webp",
     "originalPrice": "$0.99",
@@ -22,14 +11,25 @@
     "isFree": true
   },
   {
-    "title": "Kamaeru",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-de4xb.png",
+    "title": "Machinarium",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40700/capsule_sm_120.jpg?t=1748258174",
     "originalPrice": "$19.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=sufIs84q5dRQn4lav%252Frz5t5HNs5A%252BxePWaApOzYS%252F9w%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=FZqKf%252FNjF%252BrPKt8Z%252BuDiv6KpuTyueeEeEvpZNJeKQK4%253D",
+    "isFree": true
+  },
+  {
+    "title": "Make Way",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1445790/capsule_sm_120.jpg?t=1754475272",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=DXqEEpS%252Fn1LNaghUJk0f5nIoPf3P85BvUId7UaF32Fw%253D",
     "isFree": true
   },
   {
@@ -88,17 +88,6 @@
     "isFree": false
   },
   {
-    "title": "Classic Gems 2nd Ed by Dark Horse Comic Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/e7d15b83-dfb8-40f3-a78f-5e3a89cff25f.jpeg",
-    "originalPrice": "$53.95",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=bg4L2YaYJS9cE%252BnB3yYFL%252BKEs9Wh6CToIfp9aqnFLNY%253D",
-    "isFree": false
-  },
-  {
     "title": "Deployment",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/755980/capsule_sm_120.jpg?t=1745661250",
     "originalPrice": "$14.99",
@@ -107,6 +96,17 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=9jvVAASq0AJTC%252BA1GgOJKGT7lTcjWfTmBFR5t1ynLRI%253D",
+    "isFree": false
+  },
+  {
+    "title": "Cyber Avenger",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/999f5dd68c940b281def83a4b261698afd44c442/capsule_sm_120.jpg?t=1748541202",
+    "originalPrice": "$17.99",
+    "currentPrice": "$0.35",
+    "discountPercent": "98%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
     "isFree": false
   }
 ]
