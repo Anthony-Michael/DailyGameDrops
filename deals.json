@@ -11,25 +11,14 @@
     "isFree": true
   },
   {
-    "title": "Machinarium",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40700/capsule_sm_120.jpg?t=1748258174",
-    "originalPrice": "$19.99",
+    "title": "Monument Valley",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1927720/capsule_sm_120.jpg?t=1756148289",
+    "originalPrice": "$7.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=FZqKf%252FNjF%252BrPKt8Z%252BuDiv6KpuTyueeEeEvpZNJeKQK4%253D",
-    "isFree": true
-  },
-  {
-    "title": "Make Way",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1445790/capsule_sm_120.jpg?t=1754475272",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=DXqEEpS%252Fn1LNaghUJk0f5nIoPf3P85BvUId7UaF32Fw%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=RMTqOg%252BlSEFDD2TBOEZMuvPfZoqom2%252FO%252FZlz%252F%252Bp63jE%253D",
     "isFree": true
   },
   {
@@ -107,6 +96,17 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
+    "isFree": false
+  },
+  {
+    "title": "We Are The Dwarves",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/395570/capsule_sm_120.jpg?t=1756045532",
+    "originalPrice": "$34.99",
+    "currentPrice": "$0.69",
+    "discountPercent": "98%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=Y%252FeheAGiTDOcIx5%252BLh5tPapNtF%252BGtKaJK%252Bgu%252B6qH1DA%253D",
     "isFree": false
   }
 ]
