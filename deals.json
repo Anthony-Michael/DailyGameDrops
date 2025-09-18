@@ -77,17 +77,6 @@
     "isFree": false
   },
   {
-    "title": "Hobbies and Life Skills For Dummies Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/6af88f37-5016-4117-b0f0-fe161c8ae083.jpeg",
-    "originalPrice": "$69.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=lzO64X3A58HiRL%252B%252BvWiTKr1ETS639nTC4s7u9b77YBk%253D",
-    "isFree": false
-  },
-  {
     "title": "Deployment",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/755980/capsule_sm_120.jpg?t=1745661250",
     "originalPrice": "$14.99",
@@ -107,6 +96,17 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
+    "isFree": false
+  },
+  {
+    "title": "We Are The Dwarves",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/395570/capsule_sm_120.jpg?t=1757699173",
+    "originalPrice": "$34.99",
+    "currentPrice": "$0.69",
+    "discountPercent": "98%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=Y%252FeheAGiTDOcIx5%252BLh5tPapNtF%252BGtKaJK%252Bgu%252B6qH1DA%253D",
     "isFree": false
   }
 ]
