@@ -12,7 +12,7 @@
   },
   {
     "title": "Project Winter",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774861/c635cf54c2a54561d61fca578115b2295f0478bc/capsule_sm_120.jpg?t=1758220178",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774861/c635cf54c2a54561d61fca578115b2295f0478bc/capsule_sm_120.jpg?t=1758293139",
     "originalPrice": "$9.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
@@ -66,6 +66,17 @@
     "isFree": false
   },
   {
+    "title": "Manga Masterpieces Collection by ABLAZE",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/5c5df392-b5e9-4f10-b5df-ae473371514e.jpeg",
+    "originalPrice": "$67.96",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=rbvTpiwMDD3SDH6h2w6hVPv300KHNIeXH7VNFzsy1gw%253D",
+    "isFree": false
+  },
+  {
     "title": "Deployment",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/755980/capsule_sm_120.jpg?t=1745661250",
     "originalPrice": "$14.99",
@@ -96,17 +107,6 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=Y%252FeheAGiTDOcIx5%252BLh5tPapNtF%252BGtKaJK%252Bgu%252B6qH1DA%253D",
-    "isFree": false
-  },
-  {
-    "title": "Whale Rock All Games Bundle",
-    "imageUrl": "https://images.gog-statics.com/52f7d25a23970dbdaad859fb6fa3192a25b15a71ebf3322d863a5272e63bc172_product_tile_117h.webp",
-    "originalPrice": "$49.09",
-    "currentPrice": "$0.98",
-    "discountPercent": "98%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=uiYyPcazRtPoQ3NIMridVxNso2NQZs7d85R790cS%252FHE%253D",
     "isFree": false
   }
 ]
