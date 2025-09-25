@@ -33,6 +33,39 @@
     "isFree": false
   },
   {
+    "title": "Microsoft Azure Certification Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/17b3ecd1-9abd-4ce5-941f-e90ad2dfcfb5.jpeg",
+    "originalPrice": "$103.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=ukG0Ny6KW41nklfbYWWrIS%252BLrcgBkfG8SH3DraRnTo8%253D",
+    "isFree": false
+  },
+  {
+    "title": "JavaScript Bundle 5th Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/3c2a9a57-aa45-4d57-896a-e3b7c184df8a.jpeg",
+    "originalPrice": "$99.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=pH9JmIHMQnDA3Dz2i5WLSkLkZEQm3%252FetBXqw4Wl3oYk%253D",
+    "isFree": false
+  },
+  {
+    "title": "Data Engineering Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/be054370-98ad-4d46-a47e-cd700bb8b683.jpeg",
+    "originalPrice": "$95.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=0Z1FZ5erseG%252BWOxL7V03EcowiROiognbr58O%252FmrCEgI%253D",
+    "isFree": false
+  },
+  {
     "title": "Manga Masterpieces Collection by ABLAZE",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/5c5df392-b5e9-4f10-b5df-ae473371514e.jpeg",
     "originalPrice": "$67.96",
@@ -74,39 +107,6 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=Y%252FeheAGiTDOcIx5%252BLh5tPapNtF%252BGtKaJK%252Bgu%252B6qH1DA%253D",
-    "isFree": false
-  },
-  {
-    "title": "Whale Rock All Games Bundle",
-    "imageUrl": "https://images.gog-statics.com/52f7d25a23970dbdaad859fb6fa3192a25b15a71ebf3322d863a5272e63bc172_product_tile_117h.webp",
-    "originalPrice": "$49.09",
-    "currentPrice": "$0.98",
-    "discountPercent": "98%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=uiYyPcazRtPoQ3NIMridVxNso2NQZs7d85R790cS%252FHE%253D",
-    "isFree": false
-  },
-  {
-    "title": "Global Beats and Vibes Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/3c28ff96-efd0-4a1f-a2cc-4467d179059f.jpeg",
-    "originalPrice": "$48.70",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=d%252F9g4eab8UofQBJMZ8vD3cGLP5rx1t0pdY3m5eUlUOc%253D",
-    "isFree": false
-  },
-  {
-    "title": "Puzzle-Palooza Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/25c183e6-37e0-4067-9bec-278d14e97333.jpeg",
-    "originalPrice": "$40.00",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=Sj2l2mQ%252F2iI8Ye1Pg76Q1wx9rr5TIgQxU0DnGdrut54%253D",
     "isFree": false
   }
 ]
