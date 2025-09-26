@@ -1,24 +1,35 @@
 [
   {
-    "title": "Samorost2",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40720/capsule_sm_120.jpg?t=1757929389",
-    "originalPrice": "$4.99",
+    "title": "Lynn , HD WallPaper",
+    "imageUrl": "https://images.gog-statics.com/5b90046011b649b63e7f36a831d35a61eb08c286da71bb1304d162cca1f3c8df_product_tile_117h.webp",
+    "originalPrice": "$0.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
-    "store": "Epic Games Store",
+    "store": "GOG",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=gBHdBmf1eiKyiRVIsmwQPuI5UIOxU07XeTd%252F5Nemc3o%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=yPoJRu9DazC7%252FN7EshNfE7hjN2sdveH0e0B1H%252FMZ1Jw%253D",
     "isFree": true
   },
   {
-    "title": "Project Winter",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774861/c635cf54c2a54561d61fca578115b2295f0478bc/capsule_sm_120.jpg?t=1758293139",
-    "originalPrice": "$9.99",
+    "title": "Eastern Exorcist",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1120810/capsule_sm_120.jpg?t=1735635525",
+    "originalPrice": "$17.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=NFJl2ZFOxMYghNcDOqMNWEhgLyo3%252Fnv7tZrE6IC6VRo%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=A43suDmcPIWSbbjqEgAn%252FStAfgVHeHREwtaYzcTrt1k%253D",
+    "isFree": true
+  },
+  {
+    "title": "Jorels Brother and The Most Important Game of the Galaxy",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/6d5a003f768f4957b4ed48b373f86b32/jorels-brother-and-the-most-important-game-of-the-galaxy-um1nx.png",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=CmJHruAnf3pJbcmz32vzU3EsnAHICkqYfltSSLQy7co%253D",
     "isFree": true
   },
   {
@@ -96,17 +107,6 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
-    "isFree": false
-  },
-  {
-    "title": "We Are The Dwarves",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/395570/68df9e1988db53f113f5266f8a9b28bb976e006e/capsule_sm_120.jpg?t=1758407259",
-    "originalPrice": "$34.99",
-    "currentPrice": "$0.69",
-    "discountPercent": "98%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=Y%252FeheAGiTDOcIx5%252BLh5tPapNtF%252BGtKaJK%252Bgu%252B6qH1DA%253D",
     "isFree": false
   }
 ]
