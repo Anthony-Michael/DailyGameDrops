@@ -1,16 +1,5 @@
 [
   {
-    "title": "Lynn , HD WallPaper",
-    "imageUrl": "https://images.gog-statics.com/5b90046011b649b63e7f36a831d35a61eb08c286da71bb1304d162cca1f3c8df_product_tile_117h.webp",
-    "originalPrice": "$0.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "GOG",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=yPoJRu9DazC7%252FN7EshNfE7hjN2sdveH0e0B1H%252FMZ1Jw%253D",
-    "isFree": true
-  },
-  {
     "title": "Nightingale",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928980/capsule_231x87.jpg?t=1757007478",
     "originalPrice": "$29.99",
@@ -33,6 +22,17 @@
     "isFree": false
   },
   {
+    "title": "Unreal 5 and Unity Game Devs Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/349225c1-53da-49a3-9b06-ce8e681a38bb.jpeg",
+    "originalPrice": "$123.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=TzF9998WJrK2kmNCtmaNiLSFyDjbJCgRJHs7ZtG6yAY%253D",
+    "isFree": false
+  },
+  {
     "title": "Microsoft Azure Certification Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/17b3ecd1-9abd-4ce5-941f-e90ad2dfcfb5.jpeg",
     "originalPrice": "$103.97",
@@ -41,6 +41,17 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=ukG0Ny6KW41nklfbYWWrIS%252BLrcgBkfG8SH3DraRnTo8%253D",
+    "isFree": false
+  },
+  {
+    "title": "Project and Product Management Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/8007cc27-5069-43d6-8f7d-48e9d33a8d57.jpeg",
+    "originalPrice": "$102.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=TAozDnad1U3nLZLpAam7mblNQ%252F8OUoQ1aAnL2LifbiY%253D",
     "isFree": false
   },
   {
@@ -77,6 +88,17 @@
     "isFree": false
   },
   {
+    "title": "Data Science Bundle 4th Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/4e746a81-c911-49b7-bb7a-55e33803f2f5.jpeg",
+    "originalPrice": "$65.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=Jq4JSMi%252FU9NouMkowy7xYjl17Nzedu5Bcd1FONc%252Bmuo%253D",
+    "isFree": false
+  },
+  {
     "title": "Manga Masters Bundle Isekai 2nd Edition",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/9c753027-c069-46fd-935d-a56810939b95.jpeg",
     "originalPrice": "$54.95",
@@ -85,28 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=%252FBHyFzZOE0XIk%252BAesSvYeSq0EBi4O99sWSZc6lx5Qhc%253D",
-    "isFree": false
-  },
-  {
-    "title": "Deployment",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/755980/1bb5209b8e847aacec68780105a69eb53e2f630b/capsule_231x87.jpg?t=1759428788",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.29",
-    "discountPercent": "98%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=9jvVAASq0AJTC%252BA1GgOJKGT7lTcjWfTmBFR5t1ynLRI%253D",
-    "isFree": false
-  },
-  {
-    "title": "We Are The Dwarves",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/395570/68df9e1988db53f113f5266f8a9b28bb976e006e/capsule_231x87.jpg?t=1759332291",
-    "originalPrice": "$34.99",
-    "currentPrice": "$0.69",
-    "discountPercent": "98%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=Y%252FeheAGiTDOcIx5%252BLh5tPapNtF%252BGtKaJK%252Bgu%252B6qH1DA%253D",
     "isFree": false
   }
 ]
