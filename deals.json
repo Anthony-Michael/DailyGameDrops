@@ -1,13 +1,24 @@
 [
   {
-    "title": "Gravity Circuit",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/858710/capsule_231x87.jpg?t=1748595661",
-    "originalPrice": "$16.99",
+    "title": "Amnesia: The Bunker",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1944430/9e708ff9b75902fb2d30b05fd6953881316edaf0/capsule_231x87.jpg?t=1734702362",
+    "originalPrice": "$24.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=r5pDVisXHT8rc3uec%252FLnGJRz4YmO8PGEBVncN8MzpAM%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=tdSv89TnWUy0pN2cL7x45GJVvnoGXlCbQTGWIClr2Lo%253D",
+    "isFree": true
+  },
+  {
+    "title": "Samorost 3",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/421120/capsule_231x87.jpg?t=1757929435",
+    "originalPrice": "$19.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Nx5%252BrVzwe2M3SykjjP31wInuiTTEIyNvXmHWbrLKWiQ%253D",
     "isFree": true
   },
   {
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=Jq4JSMi%252FU9NouMkowy7xYjl17Nzedu5Bcd1FONc%252Bmuo%253D",
-    "isFree": false
-  },
-  {
-    "title": "Manga Masters Bundle Isekai 2nd Edition",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/9c753027-c069-46fd-935d-a56810939b95.jpeg",
-    "originalPrice": "$54.95",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=%252FBHyFzZOE0XIk%252BAesSvYeSq0EBi4O99sWSZc6lx5Qhc%253D",
     "isFree": false
   }
 ]
