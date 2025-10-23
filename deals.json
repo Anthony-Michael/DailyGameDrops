@@ -88,6 +88,17 @@
     "isFree": false
   },
   {
+    "title": "Networking Bundle 3rd Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/2ea2fcab-9907-4914-b2a3-616faffb859a.jpeg",
+    "originalPrice": "$68.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=eInQk%252FSF0F4hWk77X4CSH6QwwxIWzdZDoUw64XH4cKM%253D",
+    "isFree": false
+  },
+  {
     "title": "Manga Masterpieces Collection by ABLAZE",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/5c5df392-b5e9-4f10-b5df-ae473371514e.jpeg",
     "originalPrice": "$67.96",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=rbvTpiwMDD3SDH6h2w6hVPv300KHNIeXH7VNFzsy1gw%253D",
-    "isFree": false
-  },
-  {
-    "title": "Data Science Bundle 4th Edition",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/4e746a81-c911-49b7-bb7a-55e33803f2f5.jpeg",
-    "originalPrice": "$65.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=Jq4JSMi%252FU9NouMkowy7xYjl17Nzedu5Bcd1FONc%252Bmuo%253D",
     "isFree": false
   }
 ]
