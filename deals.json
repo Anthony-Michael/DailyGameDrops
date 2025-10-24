@@ -1,24 +1,13 @@
 [
   {
-    "title": "Amnesia: The Bunker",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1944430/9e708ff9b75902fb2d30b05fd6953881316edaf0/capsule_231x87.jpg?t=1734702362",
-    "originalPrice": "$24.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=tdSv89TnWUy0pN2cL7x45GJVvnoGXlCbQTGWIClr2Lo%253D",
-    "isFree": true
-  },
-  {
-    "title": "Samorost 3",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/421120/capsule_231x87.jpg?t=1757929435",
+    "title": "Fear the Spotlight",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1959390/f7f87dec1ddd48c32b2e124e050ff57a456267e2/capsule_231x87.jpg?t=1751952809",
     "originalPrice": "$19.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Nx5%252BrVzwe2M3SykjjP31wInuiTTEIyNvXmHWbrLKWiQ%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=J7hqcd54JMXUnm1oO%252Fql1NM4E%252F3KK51HzMDJEn9eD%252F8%253D",
     "isFree": true
   },
   {
@@ -44,17 +33,6 @@
     "isFree": false
   },
   {
-    "title": "Microsoft Azure Certification Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/17b3ecd1-9abd-4ce5-941f-e90ad2dfcfb5.jpeg",
-    "originalPrice": "$103.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=ukG0Ny6KW41nklfbYWWrIS%252BLrcgBkfG8SH3DraRnTo8%253D",
-    "isFree": false
-  },
-  {
     "title": "Project and Product Management Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/8007cc27-5069-43d6-8f7d-48e9d33a8d57.jpeg",
     "originalPrice": "$102.97",
@@ -63,28 +41,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=TAozDnad1U3nLZLpAam7mblNQ%252F8OUoQ1aAnL2LifbiY%253D",
-    "isFree": false
-  },
-  {
-    "title": "JavaScript Bundle 5th Edition",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/3c2a9a57-aa45-4d57-896a-e3b7c184df8a.jpeg",
-    "originalPrice": "$99.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=pH9JmIHMQnDA3Dz2i5WLSkLkZEQm3%252FetBXqw4Wl3oYk%253D",
-    "isFree": false
-  },
-  {
-    "title": "Data Engineering Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/be054370-98ad-4d46-a47e-cd700bb8b683.jpeg",
-    "originalPrice": "$95.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=0Z1FZ5erseG%252BWOxL7V03EcowiROiognbr58O%252FmrCEgI%253D",
     "isFree": false
   },
   {
@@ -107,6 +63,50 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=rbvTpiwMDD3SDH6h2w6hVPv300KHNIeXH7VNFzsy1gw%253D",
+    "isFree": false
+  },
+  {
+    "title": "Data Science Bundle 4th Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/4e746a81-c911-49b7-bb7a-55e33803f2f5.jpeg",
+    "originalPrice": "$65.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=Jq4JSMi%252FU9NouMkowy7xYjl17Nzedu5Bcd1FONc%252Bmuo%253D",
+    "isFree": false
+  },
+  {
+    "title": "Manga Masters Bundle Isekai 2nd Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/9c753027-c069-46fd-935d-a56810939b95.jpeg",
+    "originalPrice": "$54.95",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=%252FBHyFzZOE0XIk%252BAesSvYeSq0EBi4O99sWSZc6lx5Qhc%253D",
+    "isFree": false
+  },
+  {
+    "title": "Tortured Souls Graphic Novels Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/52e94ab0-1e03-4aae-8a96-3cea7f66af0d.jpeg",
+    "originalPrice": "$41.70",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=av5Qn1NiKfymzjostKZPz0WEQtwJK4qRv%252Fkg%252FxypeTM%253D",
+    "isFree": false
+  },
+  {
+    "title": "Database (SQL to NoSQL) Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/061af575-576c-4d81-95a9-d9f2113a79a9.jpeg",
+    "originalPrice": "$38.99",
+    "currentPrice": "$1.00",
+    "discountPercent": "97%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=AjX2swuLqeDGmBoz5mYBqGNFWSHOy4g%252FtLa3jYu37vc%253D",
     "isFree": false
   }
 ]
