@@ -55,6 +55,28 @@
     "isFree": false
   },
   {
+    "title": "Working With Linux Bundle 4th Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/54557be5-b509-469f-ab9c-8308e3dca4f8.jpeg",
+    "originalPrice": "$91.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=%252B5f6CaQQLzLiE38ngNjdf9uLmbj%252BO9LdK06TOqxgD2A%253D",
+    "isFree": false
+  },
+  {
+    "title": "Cybersecurity Bundle 5th Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/6987837e-803f-4ce0-93ac-f0553fd98651.jpeg",
+    "originalPrice": "$85.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=ZuwShnUZhBx1WlxOw8stQ%252Fy14qGE5HTIuAhq4D2kKx8%253D",
+    "isFree": false
+  },
+  {
     "title": "Networking Bundle 3rd Edition",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/2ea2fcab-9907-4914-b2a3-616faffb859a.jpeg",
     "originalPrice": "$68.97",
@@ -85,28 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=Jq4JSMi%252FU9NouMkowy7xYjl17Nzedu5Bcd1FONc%252Bmuo%253D",
-    "isFree": false
-  },
-  {
-    "title": "Tortured Souls Graphic Novels Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/52e94ab0-1e03-4aae-8a96-3cea7f66af0d.jpeg",
-    "originalPrice": "$41.70",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=av5Qn1NiKfymzjostKZPz0WEQtwJK4qRv%252Fkg%252FxypeTM%253D",
-    "isFree": false
-  },
-  {
-    "title": "Database (SQL to NoSQL) Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/061af575-576c-4d81-95a9-d9f2113a79a9.jpeg",
-    "originalPrice": "$38.99",
-    "currentPrice": "$1.00",
-    "discountPercent": "97%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=AjX2swuLqeDGmBoz5mYBqGNFWSHOy4g%252FtLa3jYu37vc%253D",
     "isFree": false
   }
 ]
