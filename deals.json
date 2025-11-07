@@ -1,24 +1,13 @@
 [
   {
-    "title": "Bendy and the Ink Machine",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/622650/439263ed64ad1b390b62a86f05be9157807b3ce7/capsule_231x87.jpg?t=1756641105",
-    "originalPrice": "$19.99",
+    "title": "Felix The Reaper",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/919410/capsule_231x87.jpg?t=1759324310",
+    "originalPrice": "$9.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=up%252Bp0zho%252BG9gK3mFIJxdSXA4%252F7B408gWMcIIgwVRmFw%253D",
-    "isFree": true
-  },
-  {
-    "title": "Five Nights at Freddys: Into the Pit",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/capsule_231x87.jpg?t=1746172589",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=LlPqKgaQCTP0Bf1wk60u8k6BYGuSr7tz3s0UsKg0XIM%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=FPHdPSjQTDENnvCMDvx2ZX3DRORjYmZ9KzMRaMjyYPs%253D",
     "isFree": true
   },
   {
@@ -30,28 +19,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=hgT%252Byq8StT%252BQgmrEvsTsjg1sRb3Q5Xt4THem%252FMcb%252F0c%253D",
-    "isFree": false
-  },
-  {
-    "title": "Unreal 5 and Unity Game Devs Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/349225c1-53da-49a3-9b06-ce8e681a38bb.jpeg",
-    "originalPrice": "$123.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=TzF9998WJrK2kmNCtmaNiLSFyDjbJCgRJHs7ZtG6yAY%253D",
-    "isFree": false
-  },
-  {
-    "title": "Project and Product Management Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/8007cc27-5069-43d6-8f7d-48e9d33a8d57.jpeg",
-    "originalPrice": "$102.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=TAozDnad1U3nLZLpAam7mblNQ%252F8OUoQ1aAnL2LifbiY%253D",
     "isFree": false
   },
   {
@@ -99,14 +66,47 @@
     "isFree": false
   },
   {
-    "title": "Data Science Bundle 4th Edition",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/4e746a81-c911-49b7-bb7a-55e33803f2f5.jpeg",
-    "originalPrice": "$65.97",
+    "title": "Tortured Souls Graphic Novels Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/52e94ab0-1e03-4aae-8a96-3cea7f66af0d.jpeg",
+    "originalPrice": "$41.70",
     "currentPrice": "$1.00",
     "discountPercent": "98%",
     "store": "Fanatical",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=Jq4JSMi%252FU9NouMkowy7xYjl17Nzedu5Bcd1FONc%252Bmuo%253D",
+    "affiliateLink": "https://dailygamedrops.com/track?game=av5Qn1NiKfymzjostKZPz0WEQtwJK4qRv%252Fkg%252FxypeTM%253D",
+    "isFree": false
+  },
+  {
+    "title": "Database (SQL to NoSQL) Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/061af575-576c-4d81-95a9-d9f2113a79a9.jpeg",
+    "originalPrice": "$38.99",
+    "currentPrice": "$1.00",
+    "discountPercent": "97%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=AjX2swuLqeDGmBoz5mYBqGNFWSHOy4g%252FtLa3jYu37vc%253D",
+    "isFree": false
+  },
+  {
+    "title": "Dynamite Darkness Comics Collection",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/7c2d3908-1516-4b49-8281-05d6e7093da4.jpeg",
+    "originalPrice": "$32.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "97%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=FrIOBxUO%252B8wGCNZqotNZQDKikZrdxgPEp1H7wlHI1Ug%253D",
+    "isFree": false
+  },
+  {
+    "title": "Blender Computer Animation Bundle 4th Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/51eb5709-06bc-4dc8-b61e-b63984e0d180.jpeg",
+    "originalPrice": "$31.99",
+    "currentPrice": "$1.00",
+    "discountPercent": "97%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
     "isFree": false
   }
 ]
