@@ -22,6 +22,17 @@
     "isFree": false
   },
   {
+    "title": "100 Totally Unreal VFX Game Devs Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/39ecf32e-f8d4-4e92-a625-6b16d17bada9.jpeg",
+    "originalPrice": "$199.95",
+    "currentPrice": "$1.99",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=5MJOsZISbjFu46yuTLfoOGmvBEYnwAFhrxG2x9Ehp%252BE%253D",
+    "isFree": false
+  },
+  {
     "title": "Working With Linux Bundle 4th Edition",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/54557be5-b509-469f-ab9c-8308e3dca4f8.jpeg",
     "originalPrice": "$91.97",
@@ -88,25 +99,14 @@
     "isFree": false
   },
   {
-    "title": "Dynamite Darkness Comics Collection",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/7c2d3908-1516-4b49-8281-05d6e7093da4.jpeg",
-    "originalPrice": "$32.97",
-    "currentPrice": "$1.00",
+    "title": "Unclaimed World",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284100/capsule_231x87.jpg?t=1487698153",
+    "originalPrice": "$16.99",
+    "currentPrice": "$0.50",
     "discountPercent": "97%",
-    "store": "Fanatical",
+    "store": "Humble Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=FrIOBxUO%252B8wGCNZqotNZQDKikZrdxgPEp1H7wlHI1Ug%253D",
-    "isFree": false
-  },
-  {
-    "title": "Blender Computer Animation Bundle 4th Edition",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/51eb5709-06bc-4dc8-b61e-b63984e0d180.jpeg",
-    "originalPrice": "$31.99",
-    "currentPrice": "$1.00",
-    "discountPercent": "97%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
+    "affiliateLink": "https://dailygamedrops.com/track?game=hV1uGbDuy%252FdMUfxYZb%252BPCBj345sgqPwRWHlLgtuAxAk%253D",
     "isFree": false
   }
 ]
