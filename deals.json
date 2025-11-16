@@ -77,17 +77,6 @@
     "isFree": false
   },
   {
-    "title": "Manga Masterpieces Collection by ABLAZE",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/5c5df392-b5e9-4f10-b5df-ae473371514e.jpeg",
-    "originalPrice": "$67.96",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=rbvTpiwMDD3SDH6h2w6hVPv300KHNIeXH7VNFzsy1gw%253D",
-    "isFree": false
-  },
-  {
     "title": "Tortured Souls Graphic Novels Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/52e94ab0-1e03-4aae-8a96-3cea7f66af0d.jpeg",
     "originalPrice": "$41.70",
@@ -107,6 +96,17 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=AjX2swuLqeDGmBoz5mYBqGNFWSHOy4g%252FtLa3jYu37vc%253D",
+    "isFree": false
+  },
+  {
+    "title": "Dynamite Darkness Comics Collection",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/7c2d3908-1516-4b49-8281-05d6e7093da4.jpeg",
+    "originalPrice": "$32.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "97%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=FrIOBxUO%252B8wGCNZqotNZQDKikZrdxgPEp1H7wlHI1Ug%253D",
     "isFree": false
   }
 ]
