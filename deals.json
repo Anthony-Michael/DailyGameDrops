@@ -44,6 +44,17 @@
     "isFree": false
   },
   {
+    "title": "Arkanoid - Eternal Battle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
+    "originalPrice": "$9.99",
+    "currentPrice": "$0.10",
+    "discountPercent": "99%",
+    "store": "GreenManGaming",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=0kTyCkQMSqGbjnXrCc7ziVOyWDdAsUIxoHuCN8UT0J4%253D",
+    "isFree": false
+  },
+  {
     "title": "Working With Linux Bundle 4th Edition",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/54557be5-b509-469f-ab9c-8308e3dca4f8.jpeg",
     "originalPrice": "$91.97",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=ALowB6aKR8Stxf1RtSysdlEOA1esEqJ0Roe8THws%252FZ8%253D",
-    "isFree": false
-  },
-  {
-    "title": "Dynamite Darkness Comics Collection",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/7c2d3908-1516-4b49-8281-05d6e7093da4.jpeg",
-    "originalPrice": "$32.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "97%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=FrIOBxUO%252B8wGCNZqotNZQDKikZrdxgPEp1H7wlHI1Ug%253D",
     "isFree": false
   }
 ]
