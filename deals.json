@@ -77,6 +77,17 @@
     "isFree": false
   },
   {
+    "title": "Music Mixmasters Plugins and Samples Creator Pack",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/cb06283a-196f-4ca6-8c59-55727d82cbd5.jpeg",
+    "originalPrice": "$79.70",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=tDVxB8os62vO1vh4CxnWaFKcgcaLow4LGaMqqDAGCYU%253D",
+    "isFree": false
+  },
+  {
     "title": "The Seven Deadly Sins Manga Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/ac1f66ee-fa4b-4ece-a071-f602291d6213.jpeg",
     "originalPrice": "$43.96",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=av5Qn1NiKfymzjostKZPz0WEQtwJK4qRv%252Fkg%252FxypeTM%253D",
-    "isFree": false
-  },
-  {
-    "title": "Star Trek Across the Universe Comics Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/5f44db85-fc99-4b0a-b3d8-03e8628c63e5.jpeg",
-    "originalPrice": "$39.96",
-    "currentPrice": "$1.00",
-    "discountPercent": "97%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=ALowB6aKR8Stxf1RtSysdlEOA1esEqJ0Roe8THws%252FZ8%253D",
     "isFree": false
   }
 ]
