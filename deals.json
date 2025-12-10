@@ -44,6 +44,17 @@
     "isFree": false
   },
   {
+    "title": "INDUSTRIA",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172650/capsule_231x87.jpg?t=1725001263",
+    "originalPrice": "$19.99",
+    "currentPrice": "$0.39",
+    "discountPercent": "98%",
+    "store": "IndieGala",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=T4Tv%252FLIMsjatc0OPxvZq6qB%252BQIVXUPP6Gj5%252B5U4wV4g%253D",
+    "isFree": false
+  },
+  {
     "title": "The Seven Deadly Sins Manga Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/ac1f66ee-fa4b-4ece-a071-f602291d6213.jpeg",
     "originalPrice": "$43.96",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
-    "isFree": false
-  },
-  {
-    "title": "Cowabunga! The Teenage Mutant Ninja Turtles Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/dd9357f9-88ef-418c-8d7d-952b1c7b7f02.jpeg",
-    "originalPrice": "$31.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "97%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=3XHhQ5vISgwKdN3nGHrx8lorZo2nu%252BSSetPfYUA53Fo%253D",
     "isFree": false
   }
 ]
