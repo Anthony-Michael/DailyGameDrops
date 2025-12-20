@@ -1,13 +1,13 @@
 [
   {
-    "title": "Jotunnslayer: Hordes of Hel",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2820820/0b04a09c1ede00ae18e8c90a6b48d03144667541/capsule_231x87_alt_assets_4.jpg?t=1765983939",
-    "originalPrice": "$14.99",
+    "title": "Eternights",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1402110/capsule_231x87.jpg?t=1759232313",
+    "originalPrice": "$29.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Ey%252FIqKTI%252B65fCzLXE0zanMUwV%252BK8eVBm9gkyyyu6WnQ%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=5bffuBjcK4G55EnAoA7JibwefmP9H%252Bgf4bGHBR%252FPGOM%253D",
     "isFree": true
   },
   {
@@ -55,17 +55,6 @@
     "isFree": false
   },
   {
-    "title": "The Seven Deadly Sins Manga Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/ac1f66ee-fa4b-4ece-a071-f602291d6213.jpeg",
-    "originalPrice": "$43.96",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=1Acq8XzAO4ta%252BIhzcs3TNFQqEPbtblkRjgP7aNi6XqY%253D",
-    "isFree": false
-  },
-  {
     "title": "Tortured Souls Graphic Novels Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/52e94ab0-1e03-4aae-8a96-3cea7f66af0d.jpeg",
     "originalPrice": "$41.70",
@@ -74,17 +63,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=av5Qn1NiKfymzjostKZPz0WEQtwJK4qRv%252Fkg%252FxypeTM%253D",
-    "isFree": false
-  },
-  {
-    "title": "Star Trek Across the Universe Comics Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/5f44db85-fc99-4b0a-b3d8-03e8628c63e5.jpeg",
-    "originalPrice": "$39.96",
-    "currentPrice": "$1.00",
-    "discountPercent": "97%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=ALowB6aKR8Stxf1RtSysdlEOA1esEqJ0Roe8THws%252FZ8%253D",
     "isFree": false
   },
   {
@@ -107,6 +85,28 @@
     "store": "GOG",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=hDAFOA13vtWh0PSCK2%252Bn%252Bs3l%252FJNjQym8LRt8YSkb87Q%253D",
+    "isFree": false
+  },
+  {
+    "title": "The Gunk",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1087760/capsule_231x87.jpg?t=1759331134",
+    "originalPrice": "$24.99",
+    "currentPrice": "$0.74",
+    "discountPercent": "97%",
+    "store": "GOG",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=sv9zdr2kLTH9%252FhwxfzBp24LuEV%252ByGuHxgxPeymadoyI%253D",
+    "isFree": false
+  },
+  {
+    "title": "Trailblazers",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/621970/capsule_231x87.jpg?t=1587729040",
+    "originalPrice": "$29.99",
+    "currentPrice": "$0.89",
+    "discountPercent": "97%",
+    "store": "GOG",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=AvpzQW5ZAMMAoYpU%252BJNG9RtmxBpCdv%252BflJhR7%252BuN9Po%253D",
     "isFree": false
   }
 ]
