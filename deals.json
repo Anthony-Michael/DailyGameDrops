@@ -55,6 +55,17 @@
     "isFree": false
   },
   {
+    "title": "Arkanoid - Eternal Battle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
+    "originalPrice": "$29.99",
+    "currentPrice": "$0.30",
+    "discountPercent": "99%",
+    "store": "GameBillet",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
+    "isFree": false
+  },
+  {
     "title": "Music Mixmasters Plugins and Samples Creator Pack",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/cb06283a-196f-4ca6-8c59-55727d82cbd5.jpeg",
     "originalPrice": "$79.70",
@@ -96,17 +107,6 @@
     "store": "GOG",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=sv9zdr2kLTH9%252FhwxfzBp24LuEV%252ByGuHxgxPeymadoyI%253D",
-    "isFree": false
-  },
-  {
-    "title": "Trailblazers",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/621970/capsule_231x87.jpg?t=1587729040",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.89",
-    "discountPercent": "97%",
-    "store": "GOG",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=AvpzQW5ZAMMAoYpU%252BJNG9RtmxBpCdv%252BflJhR7%252BuN9Po%253D",
     "isFree": false
   }
 ]
