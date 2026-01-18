@@ -35,6 +35,17 @@
   {
     "title": "Arkanoid - Eternal Battle",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
+    "originalPrice": "$29.99",
+    "currentPrice": "$0.24",
+    "discountPercent": "99%",
+    "store": "GameBillet",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
+    "isFree": false
+  },
+  {
+    "title": "Arkanoid - Eternal Battle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
     "originalPrice": "$19.99",
     "currentPrice": "$0.19",
     "discountPercent": "99%",
@@ -52,17 +63,6 @@
     "store": "GamersGate",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
-    "isFree": false
-  },
-  {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.30",
-    "discountPercent": "99%",
-    "store": "GameBillet",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
     "isFree": false
   },
   {
