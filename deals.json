@@ -22,6 +22,17 @@
     "isFree": true
   },
   {
+    "title": "Sci-Fi and Fantasy Sound Forge Royalty Free Music and SFX Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/9fdae0f7-d387-43fa-8c81-1b027aca0d6b.jpeg",
+    "originalPrice": "$225.00",
+    "currentPrice": "$1.00",
+    "discountPercent": "100%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=0cPZQfR0JKO6i19dcX57i%252F7ldn7X3Q8TtP4nxN9JoRY%253D",
+    "isFree": false
+  },
+  {
     "title": "C 4th Edition Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/727457a2-e9b9-42c1-ac59-5313f8e239ea.jpeg",
     "originalPrice": "$145.96",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
-    "isFree": false
-  },
-  {
-    "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
-    "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
-    "originalPrice": "$34.94",
-    "currentPrice": "$1.19",
-    "discountPercent": "97%",
-    "store": "WinGameStore",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=it4z63myYbU0Y9LNBL0EdnpgR9Gixi0QdCE21gpSea4%253D",
     "isFree": false
   }
 ]
