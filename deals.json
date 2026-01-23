@@ -1,24 +1,13 @@
 [
   {
-    "title": "Styx: Master of Shadows",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242640/capsule_231x87.jpg?t=1768301777",
-    "originalPrice": "$19.99",
+    "title": "Rustler (Grand Theft Horse)",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/844260/capsule_231x87.jpg?t=1754054367",
+    "originalPrice": "$24.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=%252Fr%252BSkTYRCCdiWqngQ1iLOq2Mxf594YesKCd2q2Em658%253D",
-    "isFree": true
-  },
-  {
-    "title": "Styx: Shards of Darkness - Deluxe Edition",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/6ccdf6a1518741f0842177137adc00b0/styx-shards-of-darkness-14ih5.jpg",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=oJXWabrxXhPcv619fagwvseeCpQgZJPjjxohsMeRm7M%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=NKVGQog0rr1Dr27BUKgJe1tDN3CdXCC4QlKBgOGYN0c%253D",
     "isFree": true
   },
   {
@@ -88,17 +77,6 @@
     "isFree": false
   },
   {
-    "title": "Low Poly Game Designer Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/7a018712-8441-46db-8a99-715a58d4bd27.jpeg",
-    "originalPrice": "$34.96",
-    "currentPrice": "$1.00",
-    "discountPercent": "97%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=4jjQ9cONl%252FWSnN4kSucbZHRjDyXJwJLzKZaQNvrWOK0%253D",
-    "isFree": false
-  },
-  {
     "title": "Blender Computer Animation Bundle 4th Edition",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/51eb5709-06bc-4dc8-b61e-b63984e0d180.jpeg",
     "originalPrice": "$31.99",
@@ -107,6 +85,28 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
+    "isFree": false
+  },
+  {
+    "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
+    "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
+    "originalPrice": "$34.94",
+    "currentPrice": "$1.19",
+    "discountPercent": "97%",
+    "store": "WinGameStore",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=it4z63myYbU0Y9LNBL0EdnpgR9Gixi0QdCE21gpSea4%253D",
+    "isFree": false
+  },
+  {
+    "title": "CompTIA and Cisco Certs Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/245d74ce-b689-4954-87bb-e61892d71689.jpeg",
+    "originalPrice": "$26.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "96%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=i3fXWDdIn76LdY91BpU4UDGL8Yc1jFqbxY0WzYFVcZY%253D",
     "isFree": false
   }
 ]
