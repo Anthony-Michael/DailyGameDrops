@@ -77,6 +77,28 @@
     "isFree": false
   },
   {
+    "title": "The Gunk",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1087760/capsule_231x87.jpg?t=1759331134",
+    "originalPrice": "$24.99",
+    "currentPrice": "$0.74",
+    "discountPercent": "97%",
+    "store": "GOG",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=sv9zdr2kLTH9%252FhwxfzBp24LuEV%252ByGuHxgxPeymadoyI%253D",
+    "isFree": false
+  },
+  {
+    "title": "Trailblazers",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/621970/capsule_231x87.jpg?t=1587729040",
+    "originalPrice": "$29.99",
+    "currentPrice": "$0.89",
+    "discountPercent": "97%",
+    "store": "GOG",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=AvpzQW5ZAMMAoYpU%252BJNG9RtmxBpCdv%252BflJhR7%252BuN9Po%253D",
+    "isFree": false
+  },
+  {
     "title": "Blender Computer Animation Bundle 4th Edition",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/51eb5709-06bc-4dc8-b61e-b63984e0d180.jpeg",
     "originalPrice": "$31.99",
@@ -85,28 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
-    "isFree": false
-  },
-  {
-    "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
-    "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
-    "originalPrice": "$34.94",
-    "currentPrice": "$1.19",
-    "discountPercent": "97%",
-    "store": "WinGameStore",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=it4z63myYbU0Y9LNBL0EdnpgR9Gixi0QdCE21gpSea4%253D",
-    "isFree": false
-  },
-  {
-    "title": "CompTIA and Cisco Certs Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/245d74ce-b689-4954-87bb-e61892d71689.jpeg",
-    "originalPrice": "$26.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "96%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=i3fXWDdIn76LdY91BpU4UDGL8Yc1jFqbxY0WzYFVcZY%253D",
     "isFree": false
   }
 ]
