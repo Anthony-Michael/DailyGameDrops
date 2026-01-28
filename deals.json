@@ -66,17 +66,6 @@
     "isFree": false
   },
   {
-    "title": "Tortured Souls Graphic Novels Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/52e94ab0-1e03-4aae-8a96-3cea7f66af0d.jpeg",
-    "originalPrice": "$41.70",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=av5Qn1NiKfymzjostKZPz0WEQtwJK4qRv%252Fkg%252FxypeTM%253D",
-    "isFree": false
-  },
-  {
     "title": "The Gunk",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1087760/capsule_231x87.jpg?t=1759331134",
     "originalPrice": "$24.99",
@@ -107,6 +96,17 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
+    "isFree": false
+  },
+  {
+    "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
+    "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
+    "originalPrice": "$34.94",
+    "currentPrice": "$1.19",
+    "discountPercent": "97%",
+    "store": "WinGameStore",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=it4z63myYbU0Y9LNBL0EdnpgR9Gixi0QdCE21gpSea4%253D",
     "isFree": false
   }
 ]
