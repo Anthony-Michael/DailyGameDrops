@@ -44,28 +44,6 @@
     "isFree": false
   },
   {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.24",
-    "discountPercent": "99%",
-    "store": "GameBillet",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
-    "isFree": false
-  },
-  {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.30",
-    "discountPercent": "99%",
-    "store": "GamersGate",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
-    "isFree": false
-  },
-  {
     "title": "The Gunk",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1087760/capsule_231x87.jpg?t=1759331134",
     "originalPrice": "$24.99",
@@ -107,6 +85,28 @@
     "store": "WinGameStore",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=it4z63myYbU0Y9LNBL0EdnpgR9Gixi0QdCE21gpSea4%253D",
+    "isFree": false
+  },
+  {
+    "title": "CompTIA and Cisco Certs Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/245d74ce-b689-4954-87bb-e61892d71689.jpeg",
+    "originalPrice": "$26.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "96%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=i3fXWDdIn76LdY91BpU4UDGL8Yc1jFqbxY0WzYFVcZY%253D",
+    "isFree": false
+  },
+  {
+    "title": "The Book of Legends",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277470/capsule_231x87.jpg?t=1730488403",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.59",
+    "discountPercent": "96%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=nlp3qDJuphBKbhB375Uh1maMvh4fQqKur9BHFfgLZqI%253D",
     "isFree": false
   }
 ]
