@@ -1,5 +1,27 @@
 [
   {
+    "title": "nightreaper2",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/f6e629cb8f1d44668504a77ce92bd771/nightreaper2-1nzdc.png",
+    "originalPrice": "$3.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=lM%252BgGEa7g%252FzTZ3XE%252F1NPKR8J752SjbEcWAF%252FXIRzMZc%253D",
+    "isFree": true
+  },
+  {
+    "title": "SunBlockers",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/9475db157a94476199b44f044a5dfe30/sunblockers-1ag4c.png",
+    "originalPrice": "$1.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Rx8KBZvxJuULeosOXmkPM4%252BJhnU7Zux1pFFXXPjD18M%253D",
+    "isFree": true
+  },
+  {
     "title": "Definitely Not Fried Chicken",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1036240/capsule_231x87.jpg?t=1749037531",
     "originalPrice": "$24.99",
@@ -85,28 +107,6 @@
     "store": "WinGameStore",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=it4z63myYbU0Y9LNBL0EdnpgR9Gixi0QdCE21gpSea4%253D",
-    "isFree": false
-  },
-  {
-    "title": "CompTIA and Cisco Certs Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/245d74ce-b689-4954-87bb-e61892d71689.jpeg",
-    "originalPrice": "$26.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "96%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=i3fXWDdIn76LdY91BpU4UDGL8Yc1jFqbxY0WzYFVcZY%253D",
-    "isFree": false
-  },
-  {
-    "title": "The Book of Legends",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277470/capsule_231x87.jpg?t=1730488403",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.59",
-    "discountPercent": "96%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=nlp3qDJuphBKbhB375Uh1maMvh4fQqKur9BHFfgLZqI%253D",
     "isFree": false
   }
 ]
