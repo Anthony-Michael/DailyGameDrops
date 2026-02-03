@@ -1,5 +1,16 @@
 [
   {
+    "title": "Find the Oil Racing Edition",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1039570/capsule_231x87.jpg?t=1677926346",
+    "originalPrice": "$1.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Y5HO4x6a0lHG%252Bu%252FD%252F7jYu%252BMTqR1oi4bQ%252B7GLk8pvg2w%253D",
+    "isFree": true
+  },
+  {
     "title": "nightreaper2",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/f6e629cb8f1d44668504a77ce92bd771/nightreaper2-1nzdc.png",
     "originalPrice": "$3.99",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
-    "isFree": false
-  },
-  {
-    "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
-    "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
-    "originalPrice": "$34.94",
-    "currentPrice": "$1.19",
-    "discountPercent": "97%",
-    "store": "WinGameStore",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=it4z63myYbU0Y9LNBL0EdnpgR9Gixi0QdCE21gpSea4%253D",
     "isFree": false
   }
 ]
