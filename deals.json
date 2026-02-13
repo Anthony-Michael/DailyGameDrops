@@ -1,5 +1,16 @@
 [
   {
+    "title": "The Darkside Detective: A Fumble in the Dark",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/795420/98e049806b8ad315ab6a9d18bd5edf7b24e513df/capsule_231x87.jpg?t=1769536320",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=BwkKGhCK1QsKNTyHQfehVj%252BsxGKL3wB9h38yDrq15Dg%253D",
+    "isFree": true
+  },
+  {
     "title": "Find the Oil Racing Edition",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1039570/capsule_231x87.jpg?t=1677926346",
     "originalPrice": "$1.99",
@@ -8,17 +19,6 @@
     "store": "Epic Games Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Y5HO4x6a0lHG%252Bu%252FD%252F7jYu%252BMTqR1oi4bQ%252B7GLk8pvg2w%253D",
-    "isFree": true
-  },
-  {
-    "title": "Botany Manor",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1425350/capsule_231x87.jpg?t=1763652620",
-    "originalPrice": "$24.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=%252FlxId31VdK9uSbK4K7zlKIfKFS42TsOCkGc3XUTgcQU%253D",
     "isFree": true
   },
   {
@@ -44,14 +44,14 @@
     "isFree": true
   },
   {
-    "title": "Poison Retro Set",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-118gs.png",
+    "title": "Nobody Wants to Die",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1939970/capsule_231x87.jpg?t=1749822103",
     "originalPrice": "$24.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Brbfw4NbS%252FQpZnc84yuzaYu9uvF5A%252BNtJ9EGMurm73s%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=CTQer0USEV1JFXCMz7FeJCizyaHq7Pf0%252BZTfIdLTvQo%253D",
     "isFree": true
   },
   {
@@ -99,14 +99,14 @@
     "isFree": false
   },
   {
-    "title": "Blender Computer Animation Bundle 4th Edition",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/51eb5709-06bc-4dc8-b61e-b63984e0d180.jpeg",
-    "originalPrice": "$31.99",
-    "currentPrice": "$1.00",
+    "title": "The Gunk",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1087760/capsule_231x87.jpg?t=1759331134",
+    "originalPrice": "$24.99",
+    "currentPrice": "$0.74",
     "discountPercent": "97%",
-    "store": "Fanatical",
+    "store": "GOG",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=sv9zdr2kLTH9%252FhwxfzBp24LuEV%252ByGuHxgxPeymadoyI%253D",
     "isFree": false
   }
 ]
