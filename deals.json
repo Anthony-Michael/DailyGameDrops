@@ -80,6 +80,17 @@
     "title": "Arkanoid - Eternal Battle",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
     "originalPrice": "$29.99",
+    "currentPrice": "$0.21",
+    "discountPercent": "99%",
+    "store": "GameBillet",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
+    "isFree": false
+  },
+  {
+    "title": "Arkanoid - Eternal Battle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
+    "originalPrice": "$29.99",
     "currentPrice": "$0.26",
     "discountPercent": "99%",
     "store": "GamersGate",
@@ -88,25 +99,14 @@
     "isFree": false
   },
   {
-    "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
-    "imageUrl": "https://sttc.gamersgate.com/images/product/suicide-squad-kill-the-justice-league-digital-deluxe-edition/cover-180-c29cf2.jpg",
-    "originalPrice": "$99.99",
-    "currentPrice": "$1.99",
+    "title": "Suicide Squad: Kill the Justice League",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/315210/capsule_231x87.jpg?t=1739898445",
+    "originalPrice": "$69.99",
+    "currentPrice": "$1.39",
     "discountPercent": "98%",
-    "store": "Gamesplanet",
+    "store": "IndieGala",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=qABXj1mN4Hqv9P83I6qar1%252F0SUMV3%252FUrlFOLRRQ3tS0%253D",
-    "isFree": false
-  },
-  {
-    "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
-    "imageUrl": "https://sttc.gamersgate.com/images/product/suicide-squad-kill-the-justice-league-digital-deluxe-edition/cover-180-c29cf2.jpg",
-    "originalPrice": "$99.99",
-    "currentPrice": "$2.00",
-    "discountPercent": "98%",
-    "store": "GamersGate",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=tgoizJLrmwbzR5Zj8j3F%252Fhc9TxYMIv7AtH31aRp6Li4%253D",
+    "affiliateLink": "https://dailygamedrops.com/track?game=nF9%252FdPXYPajMwowT9vhxtb%252BbzqK%252FsuFSBFt5snmLx24%253D",
     "isFree": false
   }
 ]
