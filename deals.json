@@ -1,16 +1,5 @@
 [
   {
-    "title": "The Darkside Detective: A Fumble in the Dark",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/795420/98e049806b8ad315ab6a9d18bd5edf7b24e513df/capsule_231x87.jpg?t=1769536320",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=BwkKGhCK1QsKNTyHQfehVj%252BsxGKL3wB9h38yDrq15Dg%253D",
-    "isFree": true
-  },
-  {
     "title": "nightreaper2",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/f6e629cb8f1d44668504a77ce92bd771/nightreaper2-1nzdc.png",
     "originalPrice": "$3.99",
@@ -33,14 +22,25 @@
     "isFree": true
   },
   {
-    "title": "Nobody Wants to Die",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1939970/capsule_231x87.jpg?t=1749822103",
+    "title": "Return to Ash",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3445830/46dd86cbfb705d01268878ef8e6598afb35c2356/capsule_231x87.jpg?t=1757711540",
+    "originalPrice": "$5.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=5brm3PPdjGeZZbaZYHMi7BgDKoSgAJFt7Fc%252BCPLXo%252FA%253D",
+    "isFree": true
+  },
+  {
+    "title": "STALCRAFT: X Starter Edition",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-2ckdu.png",
     "originalPrice": "$24.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=CTQer0USEV1JFXCMz7FeJCizyaHq7Pf0%252BZTfIdLTvQo%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=rcTRUGPRhpORARkigOA1q1HQMwxXxkYAKL24C294I8o%253D",
     "isFree": true
   },
   {
@@ -99,14 +99,14 @@
     "isFree": false
   },
   {
-    "title": "Suicide Squad: Kill the Justice League",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/315210/capsule_231x87.jpg?t=1739898445",
-    "originalPrice": "$69.99",
-    "currentPrice": "$1.39",
-    "discountPercent": "98%",
-    "store": "IndieGala",
+    "title": "All New Game SFX Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/692c4ac9-c4ed-474b-998f-713ced486672.jpeg",
+    "originalPrice": "$100.00",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=nF9%252FdPXYPajMwowT9vhxtb%252BbzqK%252FsuFSBFt5snmLx24%253D",
+    "affiliateLink": "https://dailygamedrops.com/track?game=7%252FFZiUblqQSBbtirqNjcWmSFMyGlhNSHfxH%252BmzF3%252FBI%253D",
     "isFree": false
   }
 ]
