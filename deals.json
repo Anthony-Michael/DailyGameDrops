@@ -1,5 +1,27 @@
 [
   {
+    "title": "Boxes: Lost Fragments",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2019810/capsule_231x87.jpg?t=1766068607",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=OGl1IPXFOCeX0%252FtmMZccMumWFb9f26Ty8jeR8XqhcWo%253D",
+    "isFree": true
+  },
+  {
+    "title": "My Night Job",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/437100/1c086023645d474fd7f994093c562b408addcfc2/capsule_231x87.jpg?t=1738587180",
+    "originalPrice": "$9.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=h13UX%252BCt9NYJ1Wyh3doc7YMwoXmBuRbwMTpzKbJeoG4%253D",
+    "isFree": true
+  },
+  {
     "title": "nightreaper2",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/f6e629cb8f1d44668504a77ce92bd771/nightreaper2-1nzdc.png",
     "originalPrice": "$3.99",
@@ -19,17 +41,6 @@
     "store": "Epic Games Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Rx8KBZvxJuULeosOXmkPM4%252BJhnU7Zux1pFFXXPjD18M%253D",
-    "isFree": true
-  },
-  {
-    "title": "Return to Ash",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3445830/46dd86cbfb705d01268878ef8e6598afb35c2356/capsule_231x87.jpg?t=1757711540",
-    "originalPrice": "$5.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=5brm3PPdjGeZZbaZYHMi7BgDKoSgAJFt7Fc%252BCPLXo%252FA%253D",
     "isFree": true
   },
   {
@@ -96,17 +107,6 @@
     "store": "GamersGate",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
-    "isFree": false
-  },
-  {
-    "title": "All New Game SFX Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/692c4ac9-c4ed-474b-998f-713ced486672.jpeg",
-    "originalPrice": "$100.00",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=7%252FFZiUblqQSBbtirqNjcWmSFMyGlhNSHfxH%252BmzF3%252FBI%253D",
     "isFree": false
   }
 ]
