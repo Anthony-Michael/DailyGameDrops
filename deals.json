@@ -33,17 +33,6 @@
     "isFree": true
   },
   {
-    "title": "SunBlockers",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/9475db157a94476199b44f044a5dfe30/sunblockers-1ag4c.png",
-    "originalPrice": "$1.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Rx8KBZvxJuULeosOXmkPM4%252BJhnU7Zux1pFFXXPjD18M%253D",
-    "isFree": true
-  },
-  {
     "title": "STALCRAFT: X Starter Edition",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-2ckdu.png",
     "originalPrice": "$24.99",
@@ -107,6 +96,17 @@
     "store": "GamersGate",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
+    "isFree": false
+  },
+  {
+    "title": "All New Game SFX Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/692c4ac9-c4ed-474b-998f-713ced486672.jpeg",
+    "originalPrice": "$100.00",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=7%252FFZiUblqQSBbtirqNjcWmSFMyGlhNSHfxH%252BmzF3%252FBI%253D",
     "isFree": false
   }
 ]
