@@ -22,17 +22,6 @@
     "isFree": true
   },
   {
-    "title": "STALCRAFT: X Starter Edition",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-2ckdu.png",
-    "originalPrice": "$24.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=rcTRUGPRhpORARkigOA1q1HQMwxXxkYAKL24C294I8o%253D",
-    "isFree": true
-  },
-  {
     "title": "Sci-Fi and Fantasy Sound Forge Royalty Free Music and SFX Bundle",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/9fdae0f7-d387-43fa-8c81-1b027aca0d6b.jpeg",
     "originalPrice": "$225.00",
@@ -107,6 +96,17 @@
     "store": "GOG",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/gog?dealID=AvpzQW5ZAMMAoYpU%252BJNG9RtmxBpCdv%252BflJhR7%252BuN9Po%253D",
+    "isFree": false
+  },
+  {
+    "title": "Blender Computer Animation Bundle 4th Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/51eb5709-06bc-4dc8-b61e-b63984e0d180.jpeg",
+    "originalPrice": "$31.99",
+    "currentPrice": "$1.00",
+    "discountPercent": "97%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
     "isFree": false
   }
 ]
