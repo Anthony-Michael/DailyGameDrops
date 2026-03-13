@@ -1,13 +1,13 @@
 [
   {
-    "title": "Turnip Boy Robs a Bank",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2097230/capsule_231x87.jpg?t=1758386170",
-    "originalPrice": "$14.99",
+    "title": "Isonzo",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1556790/capsule_231x87.jpg?t=1770380091",
+    "originalPrice": "$29.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=c3DeBslOeCvbQefxmb5lJjF%252FvCNaxwcIYBvmShWHKBQ%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=R4q72%252FvGiDc7pjxd8KXFOSZpvfYRSDmS6Nt8s%252FNAqK8%253D",
     "isFree": true
   },
   {
@@ -30,6 +30,17 @@
     "store": "Epic Games Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=nstEzwSn%252F1UZIKf640NQdg8TAKjJjyI%252BswqtXcDW%252Fns%253D",
+    "isFree": true
+  },
+  {
+    "title": "Umm Oyoun",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/615e7ed9fb8d49b395cf6b0524a42d39/ummoyoun-14u58.png",
+    "originalPrice": "$2.49",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=QadkP738Zny1jVNy6DqvJHRoAHDfUi0SCjwSLspRHaA%253D",
     "isFree": true
   },
   {
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=5E71Qd2GdRiSGK7cBvwqCSJ7X1u7q%252BBo4dRoUNSYbd0%253D",
-    "isFree": false
-  },
-  {
-    "title": "Blender Computer Animation Bundle 4th Edition",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/51eb5709-06bc-4dc8-b61e-b63984e0d180.jpeg",
-    "originalPrice": "$31.99",
-    "currentPrice": "$1.00",
-    "discountPercent": "97%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
     "isFree": false
   }
 ]
