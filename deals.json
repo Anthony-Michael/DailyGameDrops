@@ -11,17 +11,6 @@
     "isFree": true
   },
   {
-    "title": "The Assault: Survivor",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/197610a32213411a9cba2e0c5497392a/the-assault-survivor-wnppm.png",
-    "originalPrice": "$3.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=XEbW28CKH6%252BtlBQXVu19osVbF2PAyc0bWeYfkH1IFUc%253D",
-    "isFree": true
-  },
-  {
     "title": "BrightGunner",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/2880548a77eb4b0d951a9d174df0e408/brightgunner-iqn78.png",
     "originalPrice": "$9.99",
@@ -107,6 +96,17 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=5E71Qd2GdRiSGK7cBvwqCSJ7X1u7q%252BBo4dRoUNSYbd0%253D",
+    "isFree": false
+  },
+  {
+    "title": "Blender Computer Animation Bundle 4th Edition",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/51eb5709-06bc-4dc8-b61e-b63984e0d180.jpeg",
+    "originalPrice": "$31.99",
+    "currentPrice": "$1.00",
+    "discountPercent": "97%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
     "isFree": false
   }
 ]
