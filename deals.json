@@ -1,7 +1,7 @@
 [
   {
     "title": "Isonzo",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1556790/capsule_231x87.jpg?t=1770380091",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1556790/f63d98156e5db4c72bb76c398d4d511f97f76844/capsule_231x87_alt_assets_6.jpg?t=1773655146",
     "originalPrice": "$29.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
@@ -19,17 +19,6 @@
     "store": "Epic Games Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=nstEzwSn%252F1UZIKf640NQdg8TAKjJjyI%252BswqtXcDW%252Fns%253D",
-    "isFree": true
-  },
-  {
-    "title": "Umm Oyoun",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/615e7ed9fb8d49b395cf6b0524a42d39/ummoyoun-14u58.png",
-    "originalPrice": "$2.49",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=QadkP738Zny1jVNy6DqvJHRoAHDfUi0SCjwSLspRHaA%253D",
     "isFree": true
   },
   {
@@ -107,6 +96,17 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
+    "isFree": false
+  },
+  {
+    "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
+    "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
+    "originalPrice": "$34.94",
+    "currentPrice": "$1.19",
+    "discountPercent": "97%",
+    "store": "WinGameStore",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=it4z63myYbU0Y9LNBL0EdnpgR9Gixi0QdCE21gpSea4%253D",
     "isFree": false
   }
 ]
