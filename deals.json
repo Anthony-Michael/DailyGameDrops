@@ -66,6 +66,28 @@
     "isFree": false
   },
   {
+    "title": "Suicide Squad: Kill the Justice League",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/315210/capsule_231x87.jpg?t=1739898445",
+    "originalPrice": "$69.99",
+    "currentPrice": "$1.23",
+    "discountPercent": "98%",
+    "store": "GreenManGaming",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=ER%252FfOp0PmIbG%252BkoMMkNkd8JljZgzqnQqdZLU%252Bz1MekQ%253D",
+    "isFree": false
+  },
+  {
+    "title": "Suicide Squad: Kill the Justice League - Deluxe Edition",
+    "imageUrl": "https://images.greenmangaming.com/98fb0e76d36341cea0f0ca36ce9c08c6/f08e60d2766549d6b1e89e25444a00e8.jpg",
+    "originalPrice": "$99.99",
+    "currentPrice": "$1.76",
+    "discountPercent": "98%",
+    "store": "GreenManGaming",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=TQ5jlJdWwhtGomwci8bxbJe15exmOmxCbq%252FoZbXxho0%253D",
+    "isFree": false
+  },
+  {
     "title": "Dungeon Crawl Classics Purple Planet and Dying Earth RPG Collection",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/bbd69076-3ae3-423f-87f4-760efad45307.jpeg",
     "originalPrice": "$44.97",
@@ -85,28 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=5E71Qd2GdRiSGK7cBvwqCSJ7X1u7q%252BBo4dRoUNSYbd0%253D",
-    "isFree": false
-  },
-  {
-    "title": "Blender Computer Animation Bundle 4th Edition",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/51eb5709-06bc-4dc8-b61e-b63984e0d180.jpeg",
-    "originalPrice": "$31.99",
-    "currentPrice": "$1.00",
-    "discountPercent": "97%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=yjpFxU%252FYutbfhri0D3oM7fJOhD4CnrqDlML%252B5QrVamw%253D",
-    "isFree": false
-  },
-  {
-    "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
-    "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
-    "originalPrice": "$34.94",
-    "currentPrice": "$1.19",
-    "discountPercent": "97%",
-    "store": "WinGameStore",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=it4z63myYbU0Y9LNBL0EdnpgR9Gixi0QdCE21gpSea4%253D",
     "isFree": false
   }
 ]
