@@ -33,6 +33,17 @@
     "isFree": true
   },
   {
+    "title": "Wave Gods: Ammo Night",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/19d68c58dfc747168f4e2922994679a5/wave-gods-ammo-night-1siq5.png",
+    "originalPrice": "$11.49",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=jqFovSW5xPsuwQ4dYMNwRUKPGdnDkBzBVEtph1S11eE%253D",
+    "isFree": true
+  },
+  {
     "title": "World of Warships  Epic Anniversary Tachibana Pack",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-tll35.png",
     "originalPrice": "$25.00",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=V6xt3%252B6rgMC71ovrzvg0KypwzRCZM3fLAXCoFHkiSdw%253D",
-    "isFree": false
-  },
-  {
-    "title": "Suicide Squad: Kill the Justice League",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/315210/capsule_231x87.jpg?t=1739898445",
-    "originalPrice": "$69.99",
-    "currentPrice": "$1.39",
-    "discountPercent": "98%",
-    "store": "IndieGala",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=nF9%252FdPXYPajMwowT9vhxtb%252BbzqK%252FsuFSBFt5snmLx24%253D",
     "isFree": false
   }
 ]
