@@ -1,13 +1,13 @@
 [
   {
-    "title": "Electrician Simulator",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1080020/capsule_231x87.jpg?t=1773420811",
-    "originalPrice": "$17.99",
+    "title": "SYMMETRY",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/537520/capsule_231x87.jpg?t=1589292558",
+    "originalPrice": "$11.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=jkzDJaVrsmU4xlpIsuE6BUp7u4%252BwaOrrMuBmtfRwSsc%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=c2ge%252Fq5av2Ia8wpNWNujJ6RiUoLqxugoALk2Ry5fPS0%253D",
     "isFree": true
   },
   {
@@ -22,6 +22,17 @@
     "isFree": true
   },
   {
+    "title": "Lucky Goal",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2174420/capsule_231x87.jpg?t=1735748515",
+    "originalPrice": "$4.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=tTd0JdVKSWk63MzOcJPkp8qTUt%252BY5ZbZmnQUl3%252FuXpY%253D",
+    "isFree": true
+  },
+  {
     "title": "BrightGunner",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/2880548a77eb4b0d951a9d174df0e408/brightgunner-iqn78.png",
     "originalPrice": "$9.99",
@@ -33,6 +44,17 @@
     "isFree": true
   },
   {
+    "title": "Hyper Echelon",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/953330/capsule_231x87.jpg?t=1765231177",
+    "originalPrice": "$12.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=xFRrLqS98Amv2BGsP5c6K%252Ffa8r7843f%252FNzxTdTBDnNA%253D",
+    "isFree": true
+  },
+  {
     "title": "Wave Gods: Ammo Night",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/19d68c58dfc747168f4e2922994679a5/wave-gods-ammo-night-1bjai.png",
     "originalPrice": "$11.49",
@@ -41,6 +63,17 @@
     "store": "Epic Games Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=jqFovSW5xPsuwQ4dYMNwRUKPGdnDkBzBVEtph1S11eE%253D",
+    "isFree": true
+  },
+  {
+    "title": "Havendock",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2020710/f7d1360e88acc5d88c5db21d285c7f2f2966c176/capsule_231x87.jpg?t=1773056724",
+    "originalPrice": "$19.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Ue5SsaTTTxBB%252FgB6%252FUE9IdMVd1SIlAgKj%252FuljlITpRo%253D",
     "isFree": true
   },
   {
@@ -74,39 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=jPjq3RTOtEVrIeCDVfFJcJ4utU0U1bN81fsMrxdPJNI%253D",
-    "isFree": false
-  },
-  {
-    "title": "C 4th Edition Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/727457a2-e9b9-42c1-ac59-5313f8e239ea.jpeg",
-    "originalPrice": "$145.96",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=hgT%252Byq8StT%252BQgmrEvsTsjg1sRb3Q5Xt4THem%252FMcb%252F0c%253D",
-    "isFree": false
-  },
-  {
-    "title": "All New Game SFX Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/692c4ac9-c4ed-474b-998f-713ced486672.jpeg",
-    "originalPrice": "$100.00",
-    "currentPrice": "$1.00",
-    "discountPercent": "99%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=7%252FFZiUblqQSBbtirqNjcWmSFMyGlhNSHfxH%252BmzF3%252FBI%253D",
-    "isFree": false
-  },
-  {
-    "title": "X-O Manowar Through the Ages Comic Collection",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/54c54d52-146d-4cfd-b711-db2d7e3b9b8f.jpeg",
-    "originalPrice": "$59.97",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=V6xt3%252B6rgMC71ovrzvg0KypwzRCZM3fLAXCoFHkiSdw%253D",
     "isFree": false
   }
 ]
