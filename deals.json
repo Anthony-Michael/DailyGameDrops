@@ -44,6 +44,17 @@
     "isFree": true
   },
   {
+    "title": "FrostLight Escape",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/2d6276b0d4804e85bcd55e51c00f8496/frostlight-escape-h2w16.png",
+    "originalPrice": "$2.49",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=z0fNqRSGj%252BsVFnrAzVsRG3SLdNRcPgjKb%252FOIGt3CXvk%253D",
+    "isFree": true
+  },
+  {
     "title": "Hyper Echelon",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/953330/capsule_231x87.jpg?t=1765231177",
     "originalPrice": "$12.99",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=0cPZQfR0JKO6i19dcX57i%252F7ldn7X3Q8TtP4nxN9JoRY%253D",
-    "isFree": false
-  },
-  {
-    "title": "Soundscape Realms Royalty Free SFX Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/911fc44f-97e2-4366-8ca8-f0b59a28caa9.jpeg",
-    "originalPrice": "$225.00",
-    "currentPrice": "$1.00",
-    "discountPercent": "100%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=jPjq3RTOtEVrIeCDVfFJcJ4utU0U1bN81fsMrxdPJNI%253D",
     "isFree": false
   }
 ]
