@@ -1,16 +1,5 @@
 [
   {
-    "title": "I Need Spirit! Off-Road Edition",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1015470/capsule_231x87.jpg?t=1703503330",
-    "originalPrice": "$2.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=kgOhag06rG4N6hj2OoBcy1aTxu2Ps9FH%252BiiusL%252FilDo%253D",
-    "isFree": true
-  },
-  {
     "title": "Together After Dark",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2708790/b159def02fbf4dc16c7f8da3d324443911a3700c/capsule_231x87.jpg?t=1773344888",
     "originalPrice": "$2.99",
@@ -33,25 +22,14 @@
     "isFree": true
   },
   {
-    "title": "Hyper Echelon",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/953330/capsule_231x87.jpg?t=1765231177",
-    "originalPrice": "$12.99",
+    "title": "Tractor Racers",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/b98a9b2b7c364e7385f103538d86754c/tractor-racers-1j5u0.jpg",
+    "originalPrice": "$9.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=xFRrLqS98Amv2BGsP5c6K%252Ffa8r7843f%252FNzxTdTBDnNA%253D",
-    "isFree": true
-  },
-  {
-    "title": "Havendock",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2020710/f7d1360e88acc5d88c5db21d285c7f2f2966c176/capsule_231x87.jpg?t=1773056724",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Ue5SsaTTTxBB%252FgB6%252FUE9IdMVd1SIlAgKj%252FuljlITpRo%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=YI7L9NhbmhO5EEEP%252FpJ%252FAd%252FSyTWyzStP8pVujBXAMGU%253D",
     "isFree": true
   },
   {
@@ -63,6 +41,17 @@
     "store": "Epic Games Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=e8I4ffoceo2ZIajBBTLhDVbp9YCCYRVZmhJ0DpBD%252FLU%253D",
+    "isFree": true
+  },
+  {
+    "title": "Clone Drone in the Danger Zone",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/597170/18f965af769d5fc4f7a8213a025ac4a633293289/capsule_231x87_alt_assets_2.jpg?t=1774539907",
+    "originalPrice": "$19.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=B%252FJB51pPIPVwwdqgQAqXmMsfgFo8OI%252FrGhgtItY1imM%253D",
     "isFree": true
   },
   {
@@ -107,6 +96,17 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=hgT%252Byq8StT%252BQgmrEvsTsjg1sRb3Q5Xt4THem%252FMcb%252F0c%253D",
+    "isFree": false
+  },
+  {
+    "title": "All New Game SFX Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/692c4ac9-c4ed-474b-998f-713ced486672.jpeg",
+    "originalPrice": "$100.00",
+    "currentPrice": "$1.00",
+    "discountPercent": "99%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=7%252FFZiUblqQSBbtirqNjcWmSFMyGlhNSHfxH%252BmzF3%252FBI%253D",
     "isFree": false
   }
 ]
