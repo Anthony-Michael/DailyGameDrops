@@ -1,24 +1,13 @@
 [
   {
     "title": "Together After Dark",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2708790/b159def02fbf4dc16c7f8da3d324443911a3700c/capsule_231x87.jpg?t=1773344888",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2708790/b159def02fbf4dc16c7f8da3d324443911a3700c/capsule_231x87.jpg?t=1775309343",
     "originalPrice": "$2.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Bd3jnETmJJx6uoXgpFHzYvZSXEvC5NjekI7EbCcNcRc%253D",
-    "isFree": true
-  },
-  {
-    "title": "Vornyca",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/52ac54ca754c42baa0c793dc8201ca07/vornyca-1h8ys.jpg",
-    "originalPrice": "$4.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=hsu50Add35hNfzb%252BiIypTqGycq%252BZciJVlZv9r5dgM9c%253D",
     "isFree": true
   },
   {
@@ -107,6 +96,17 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=V6xt3%252B6rgMC71ovrzvg0KypwzRCZM3fLAXCoFHkiSdw%253D",
+    "isFree": false
+  },
+  {
+    "title": "Game Makers Voice Packs Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/47a8fc57-24ff-492a-baaa-08ec80435639.jpeg",
+    "originalPrice": "$50.00",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=eLEZGbMd09Ziig8H0BrACrGqfK3APbYAQBC5bLPWVFk%253D",
     "isFree": false
   }
 ]
