@@ -88,6 +88,17 @@
     "isFree": false
   },
   {
+    "title": "Arkanoid - Eternal Battle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
+    "originalPrice": "$29.99",
+    "currentPrice": "$0.30",
+    "discountPercent": "99%",
+    "store": "GamersGate",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
+    "isFree": false
+  },
+  {
     "title": "X-O Manowar Through the Ages Comic Collection",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/54c54d52-146d-4cfd-b711-db2d7e3b9b8f.jpeg",
     "originalPrice": "$59.97",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=V6xt3%252B6rgMC71ovrzvg0KypwzRCZM3fLAXCoFHkiSdw%253D",
-    "isFree": false
-  },
-  {
-    "title": "Game Makers Voice Packs Bundle",
-    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/47a8fc57-24ff-492a-baaa-08ec80435639.jpeg",
-    "originalPrice": "$50.00",
-    "currentPrice": "$1.00",
-    "discountPercent": "98%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=eLEZGbMd09Ziig8H0BrACrGqfK3APbYAQBC5bLPWVFk%253D",
     "isFree": false
   }
 ]
