@@ -1,16 +1,5 @@
 [
   {
-    "title": "Evergreen Valley: The Parkour Game",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/7ceb18d65aee4c36b5be5c745921b2f8/evergreen-valley-the-parkour-game-a4lpf.png",
-    "originalPrice": "$2.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=4SeEiO2VFwjl3vET8i3O8l9OFzH6Xjgqhvuc0NNEf3A%253D",
-    "isFree": true
-  },
-  {
     "title": "Tractor Racers",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/b98a9b2b7c364e7385f103538d86754c/tractor-racers-1j5u0.jpg",
     "originalPrice": "$9.99",
@@ -107,6 +96,17 @@
     "store": "GameBillet",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
+    "isFree": false
+  },
+  {
+    "title": "X-O Manowar Through the Ages Comic Collection",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/54c54d52-146d-4cfd-b711-db2d7e3b9b8f.jpeg",
+    "originalPrice": "$59.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=V6xt3%252B6rgMC71ovrzvg0KypwzRCZM3fLAXCoFHkiSdw%253D",
     "isFree": false
   }
 ]
