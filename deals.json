@@ -1,16 +1,5 @@
 [
   {
-    "title": "Graveyard Keeper",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/599140/capsule_231x87.jpg?t=1775516777",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Steam",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/steam?dealID=26ApbIYC3%252F9C35lFUzstHP7qNuQRRZMPaEYGwrrdXRU%253D",
-    "isFree": true
-  },
-  {
     "title": "TOMAK : Save the Earth Regeneration",
     "imageUrl": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-l1n5k.png",
     "originalPrice": "$8.99",
@@ -107,6 +96,17 @@
     "store": "Gamesplanet",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=fitpfiU8MNIBLFraMIUOp74uFfBcR3X6U2jgVDTpEnE%253D",
+    "isFree": false
+  },
+  {
+    "title": "X-O Manowar Through the Ages Comic Collection",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/54c54d52-146d-4cfd-b711-db2d7e3b9b8f.jpeg",
+    "originalPrice": "$59.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=V6xt3%252B6rgMC71ovrzvg0KypwzRCZM3fLAXCoFHkiSdw%253D",
     "isFree": false
   }
 ]
