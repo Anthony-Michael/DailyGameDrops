@@ -1,24 +1,24 @@
 [
   {
-    "title": "TOMAK : Save the Earth Regeneration",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-l1n5k.png",
-    "originalPrice": "$8.99",
+    "title": "The Stone of Madness",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1309710/62fe9ddb3a414f64f94548911c4e792beecca398/capsule_231x87.jpg?t=1751040329",
+    "originalPrice": "$29.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=TcbBFOlAwz0iGIS0hFR82mQ%252FrFTrJTlT%252B6cQLeBIles%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=ho3oVvd6m7iSuOtTPHdBr809exVxh5ngsmiblbGEpqA%253D",
     "isFree": true
   },
   {
-    "title": "Prop Sumo",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-jc5go.png",
-    "originalPrice": "$9.99",
+    "title": "Undead: Rise of the Betrayed King",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2711180/54036f9ded730e3535a781ef60ca13a07bef08e9/capsule_231x87.jpg?t=1768859941",
+    "originalPrice": "$19.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=755Mfm7g4K%252FV0j2pUL7yPu%252BL4LxrzIdUX9lAlzKicH4%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=au5%252Bbg%252FJgKssLvUFvIzq1U2I1QJcyR%252FefSGVUayRQ%252F0%253D",
     "isFree": true
   },
   {
@@ -68,28 +68,6 @@
   {
     "title": "Arkanoid - Eternal Battle",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.30",
-    "discountPercent": "99%",
-    "store": "GamersGate",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
-    "isFree": false
-  },
-  {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.30",
-    "discountPercent": "99%",
-    "store": "GameBillet",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
-    "isFree": false
-  },
-  {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
     "originalPrice": "$19.99",
     "currentPrice": "$0.22",
     "discountPercent": "99%",
@@ -107,6 +85,28 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=V6xt3%252B6rgMC71ovrzvg0KypwzRCZM3fLAXCoFHkiSdw%253D",
+    "isFree": false
+  },
+  {
+    "title": "Game Makers Voice Packs Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/47a8fc57-24ff-492a-baaa-08ec80435639.jpeg",
+    "originalPrice": "$50.00",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=eLEZGbMd09Ziig8H0BrACrGqfK3APbYAQBC5bLPWVFk%253D",
+    "isFree": false
+  },
+  {
+    "title": "Dungeon Crawl Classics Purple Planet and Dying Earth RPG Collection",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/bbd69076-3ae3-423f-87f4-760efad45307.jpeg",
+    "originalPrice": "$44.97",
+    "currentPrice": "$1.00",
+    "discountPercent": "98%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=AGhy3LTEWL%252BRcHMKhnzCsb6oKJxMMgBt3V3pEjCY6yg%253D",
     "isFree": false
   }
 ]
