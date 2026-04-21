@@ -55,17 +55,6 @@
     "isFree": false
   },
   {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.22",
-    "discountPercent": "99%",
-    "store": "Gamesplanet",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=fitpfiU8MNIBLFraMIUOp74uFfBcR3X6U2jgVDTpEnE%253D",
-    "isFree": false
-  },
-  {
     "title": "X-O Manowar Through the Ages Comic Collection",
     "imageUrl": "https://cdn.fanatical.com/production/product/400x225/54c54d52-146d-4cfd-b711-db2d7e3b9b8f.jpeg",
     "originalPrice": "$59.97",
@@ -107,6 +96,17 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=kP89YPmK9mtOn3Hx%252F%252B7p8FHUjwFXVTRszd4%252BQ4oBTII%253D",
+    "isFree": false
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles with Extra Toppings Comic Bundle",
+    "imageUrl": "https://cdn.fanatical.com/production/product/400x225/9258140b-a21c-4721-bd25-bf657a082271.jpeg",
+    "originalPrice": "$39.96",
+    "currentPrice": "$1.00",
+    "discountPercent": "97%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=mccCH3HoT9FPitM3SyGlcs1tq6j9UX5ExYvqBDdnULY%253D",
     "isFree": false
   }
 ]
