@@ -44,6 +44,17 @@
     "isFree": false
   },
   {
+    "title": "F.E.A.R. 2: Reborn",
+    "imageUrl": "https://sttc.gamersgate.com/images/product/fear-2-reborn/cover-180-2ca98e.jpg",
+    "originalPrice": "$54.99",
+    "currentPrice": "$1.68",
+    "discountPercent": "97%",
+    "store": "IndieGala",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=6YafOfJd17%252BEZ8m2kJHrMv7o4SyEFaO%252FiYg%252BpWIyILQ%253D",
+    "isFree": false
+  },
+  {
     "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
     "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
     "originalPrice": "$34.94",
@@ -96,17 +107,6 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
-    "isFree": false
-  },
-  {
-    "title": "Helheim Hassle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1095120/capsule_231x87.jpg?t=1728990639",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.79",
-    "discountPercent": "96%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=4fPrDk9qDVxXQXzcoW8HgXfHgREGdnZxz%252F4TJhOQ8a4%253D",
     "isFree": false
   }
 ]
