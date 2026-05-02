@@ -44,6 +44,17 @@
     "isFree": false
   },
   {
+    "title": "Unclaimed World",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284100/capsule_231x87.jpg?t=1776715044",
+    "originalPrice": "$16.99",
+    "currentPrice": "$0.50",
+    "discountPercent": "97%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=hV1uGbDuy%252FdMUfxYZb%252BPCBj345sgqPwRWHlLgtuAxAk%253D",
+    "isFree": false
+  },
+  {
     "title": "F.E.A.R. 2: Reborn",
     "imageUrl": "https://sttc.gamersgate.com/images/product/fear-2-reborn/cover-180-2ca98e.jpg",
     "originalPrice": "$54.99",
@@ -96,17 +107,6 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=K1MyHIH8RzjWZr%252FdjEB7fmgXCmF4mFwnlW2wZgCa5mc%253D",
-    "isFree": false
-  },
-  {
-    "title": "Cyber Avenger",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/999f5dd68c940b281def83a4b261698afd44c442/capsule_231x87.jpg?t=1757268783",
-    "originalPrice": "$17.99",
-    "currentPrice": "$0.71",
-    "discountPercent": "96%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
     "isFree": false
   }
 ]
