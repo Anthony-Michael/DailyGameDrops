@@ -1,16 +1,5 @@
 [
   {
-    "title": "Hogwarts Legacy",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/1b2e4eeed79dd06971492825a461bc5130bf7c28/capsule_231x87.jpg?t=1773932856",
-    "originalPrice": "$59.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=%252Fn%252F5x2ClvrvzThtgmxBpOUqhfG1owwHqQE%252FQLlEqczY%253D",
-    "isFree": true
-  },
-  {
     "title": "Oddsparks: An Automation Adventure",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1817800/099130faac1b85da2827fdaa03867f4452be88c6/capsule_231x87.jpg?t=1776863841",
     "originalPrice": "$29.99",
@@ -107,6 +96,17 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=K1MyHIH8RzjWZr%252FdjEB7fmgXCmF4mFwnlW2wZgCa5mc%253D",
+    "isFree": false
+  },
+  {
+    "title": "Cyber Avenger",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/999f5dd68c940b281def83a4b261698afd44c442/capsule_231x87.jpg?t=1757268783",
+    "originalPrice": "$17.99",
+    "currentPrice": "$0.71",
+    "discountPercent": "96%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
     "isFree": false
   }
 ]
