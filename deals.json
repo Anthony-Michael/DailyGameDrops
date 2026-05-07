@@ -11,28 +11,6 @@
     "isFree": true
   },
   {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.24",
-    "discountPercent": "99%",
-    "store": "GameBillet",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
-    "isFree": false
-  },
-  {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.30",
-    "discountPercent": "99%",
-    "store": "GamersGate",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
-    "isFree": false
-  },
-  {
     "title": "Unclaimed World",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284100/capsule_231x87.jpg?t=1776715044",
     "originalPrice": "$16.99",
@@ -41,17 +19,6 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=hV1uGbDuy%252FdMUfxYZb%252BPCBj345sgqPwRWHlLgtuAxAk%253D",
-    "isFree": false
-  },
-  {
-    "title": "F.E.A.R. 2: Reborn",
-    "imageUrl": "https://sttc.gamersgate.com/images/product/fear-2-reborn/cover-180-2ca98e.jpg",
-    "originalPrice": "$54.99",
-    "currentPrice": "$1.68",
-    "discountPercent": "97%",
-    "store": "IndieGala",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=6YafOfJd17%252BEZ8m2kJHrMv7o4SyEFaO%252FiYg%252BpWIyILQ%253D",
     "isFree": false
   },
   {
@@ -107,6 +74,39 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
+    "isFree": false
+  },
+  {
+    "title": "1775: Rebellion",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/422610/capsule_231x87.jpg?t=1731082244",
+    "originalPrice": "$24.99",
+    "currentPrice": "$1.09",
+    "discountPercent": "96%",
+    "store": "WinGameStore",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=Mv5bUBdVbELz9bvtQoJDX%252F2scke6aQFCMzsoQCEUNWs%253D",
+    "isFree": false
+  },
+  {
+    "title": "Project First Contact",
+    "imageUrl": "https://images.greenmangaming.com/ebe565d1944a41cdb7b30d7fcc359660/3fe9db213f414b298214b9e7833ff175.jpg",
+    "originalPrice": "$2.99",
+    "currentPrice": "$0.14",
+    "discountPercent": "95%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=%252BE27EcK0pJphffINtw3iXpfjSPlmoc0p2tvFQ%252BqzizU%253D",
+    "isFree": false
+  },
+  {
+    "title": "Age of Fear 3: The Legend",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431700/capsule_231x87.jpg?t=1730542191",
+    "originalPrice": "$24.99",
+    "currentPrice": "$1.19",
+    "discountPercent": "95%",
+    "store": "WinGameStore",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=BF%252FFS8Tu2r9U8Fm5nxjqPUc5lPmB7u%252BhdoVa%252Fy0k6ts%253D",
     "isFree": false
   }
 ]
