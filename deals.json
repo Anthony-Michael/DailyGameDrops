@@ -1,13 +1,24 @@
 [
   {
-    "title": "Oddsparks: An Automation Adventure",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1817800/099130faac1b85da2827fdaa03867f4452be88c6/capsule_231x87.jpg?t=1776863841",
-    "originalPrice": "$29.99",
+    "title": "Arranger: A Role-Puzzling Adventure",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2596420/capsule_231x87.jpg?t=1745972134",
+    "originalPrice": "$19.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=BuQrtLcWZjQS55TG7IGw8LCuYY9ksV7snriisbIUzZ0%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=DQ0n4Xb5lVrN8ZiTm4yeMh%252FP95OArsYtQQ5pMBjl5ak%253D",
+    "isFree": true
+  },
+  {
+    "title": "Trash Goblin",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2407830/b5f73d55cbca5df86e2feb1a92636ce62bb1439e/capsule_231x87.jpg?t=1778170992",
+    "originalPrice": "$19.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=8uKyJxFUTpMEmWezQMnvVDPfjf4b%252FI5x19s67VR2j%252Bg%253D",
     "isFree": true
   },
   {
@@ -96,17 +107,6 @@
     "store": "Epic Games Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=%252BE27EcK0pJphffINtw3iXpfjSPlmoc0p2tvFQ%252BqzizU%253D",
-    "isFree": false
-  },
-  {
-    "title": "Age of Fear 3: The Legend",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431700/capsule_231x87.jpg?t=1730542191",
-    "originalPrice": "$24.99",
-    "currentPrice": "$1.19",
-    "discountPercent": "95%",
-    "store": "WinGameStore",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=BF%252FFS8Tu2r9U8Fm5nxjqPUc5lPmB7u%252BhdoVa%252Fy0k6ts%253D",
     "isFree": false
   }
 ]
