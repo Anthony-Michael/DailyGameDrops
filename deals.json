@@ -22,17 +22,6 @@
     "isFree": true
   },
   {
-    "title": "Unclaimed World",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284100/capsule_231x87.jpg?t=1776715044",
-    "originalPrice": "$16.99",
-    "currentPrice": "$0.50",
-    "discountPercent": "97%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=hV1uGbDuy%252FdMUfxYZb%252BPCBj345sgqPwRWHlLgtuAxAk%253D",
-    "isFree": false
-  },
-  {
     "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
     "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
     "originalPrice": "$34.94",
@@ -107,6 +96,17 @@
     "store": "Epic Games Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=%252BE27EcK0pJphffINtw3iXpfjSPlmoc0p2tvFQ%252BqzizU%253D",
+    "isFree": false
+  },
+  {
+    "title": "Husk",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553960/capsule_231x87.jpg?t=1688840413",
+    "originalPrice": "$19.99",
+    "currentPrice": "$0.95",
+    "discountPercent": "95%",
+    "store": "GreenManGaming",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=nZnHixP4mteOHhXHvuhMxC0U1n2ky%252F3ohwOZRxKH4ek%253D",
     "isFree": false
   }
 ]
