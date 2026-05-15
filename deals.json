@@ -1,13 +1,24 @@
 [
   {
-    "title": "Arranger: A Role-Puzzling Adventure",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2596420/capsule_231x87.jpg?t=1745972134",
+    "title": "Vaudeville",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2240920/3e84fa037c02d59b0814f7344e755d99140d2cad/capsule_231x87.jpg?t=1770214371",
     "originalPrice": "$19.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=DQ0n4Xb5lVrN8ZiTm4yeMh%252FP95OArsYtQQ5pMBjl5ak%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=RX1lu0At%252BVOwF5mnwsI8zPl7xbjZ94dw88H6gO1wJEg%253D",
+    "isFree": true
+  },
+  {
+    "title": "Devils Island",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/8765e0a84b9f42948abfca013c50c1a3/devils-island-jkddh.jpg",
+    "originalPrice": "$11.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=EAJ%252Fgsa8iBNPjDWM1eocxJ8TB4FG2FPtp%252Bp959GCD1E%253D",
     "isFree": true
   },
   {
@@ -22,14 +33,36 @@
     "isFree": true
   },
   {
-    "title": "Trash Goblin",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2407830/b5f73d55cbca5df86e2feb1a92636ce62bb1439e/capsule_231x87.jpg?t=1778601348",
-    "originalPrice": "$19.99",
+    "title": "Sunderfolk",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2414270/60c0c3f09f2e84a5b66b31faf8e488fbf1890480/capsule_231x87.jpg?t=1773940416",
+    "originalPrice": "$49.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=8uKyJxFUTpMEmWezQMnvVDPfjf4b%252FI5x19s67VR2j%252Bg%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=C5QpU2wB0LJGRegXgpnA6MANIOpLL8HuNKpp%252BQ%252FUC8s%253D",
+    "isFree": true
+  },
+  {
+    "title": "RAVEN2 Half anniversary Starter Pack",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/b5a63290fb914349b2c6506a9b5619eb/raven2-rzifm.png",
+    "originalPrice": "$69.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=x8bu%252Bj%252BU0BedyBq04YtFGW%252BtW7TOdNYGp628gWMVceE%253D",
+    "isFree": true
+  },
+  {
+    "title": "Divers Mega Pack",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/ba63e2527a8c4b768845919c0d6c788e/mongil-star-dive-1hemx.jpg",
+    "originalPrice": "$9.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=pHg6l1sttBXWf1wtzuMlKW3jn2JrhpdJjtjPcPXaPj8%253D",
     "isFree": true
   },
   {
@@ -74,39 +107,6 @@
     "store": "GameBillet",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=kghsBLa3cVIM1q6voqfBrzSEz6hwZYhBig2Wgs%252Bm78E%253D",
-    "isFree": false
-  },
-  {
-    "title": "Bakery Simulator",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1031120/capsule_231x87.jpg?t=1773420813",
-    "originalPrice": "$15.99",
-    "currentPrice": "$0.62",
-    "discountPercent": "96%",
-    "store": "GameBillet",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=gzBaEVbGEmjZgrEzrsN9tgzz5g8VEshVoY4EvNed%252Bu8%253D",
-    "isFree": false
-  },
-  {
-    "title": "The Book of Legends",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277470/capsule_231x87.jpg?t=1730488403",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.59",
-    "discountPercent": "96%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=nlp3qDJuphBKbhB375Uh1maMvh4fQqKur9BHFfgLZqI%253D",
-    "isFree": false
-  },
-  {
-    "title": "3 Stars of Destiny",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/278530/capsule_231x87.jpg?t=1723878860",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.59",
-    "discountPercent": "96%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=6Aub49GWdswiskFpaRZO5RAmunYBStZzD0B4wnwhbW8%253D",
     "isFree": false
   }
 ]
