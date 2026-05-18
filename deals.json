@@ -1,27 +1,5 @@
 [
   {
-    "title": "Vaudeville",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2240920/3e84fa037c02d59b0814f7344e755d99140d2cad/capsule_231x87.jpg?t=1770214371",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=RX1lu0At%252BVOwF5mnwsI8zPl7xbjZ94dw88H6gO1wJEg%253D",
-    "isFree": true
-  },
-  {
-    "title": "Spirit Catcher 93",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4128630/46abcd58979962a5eca2f39313326cd01e524ee9/capsule_231x87.jpg?t=1773942005",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=uBSfj4J%252FhOej7rFUNavSHDkKWkrK6uEuEBkg9dd9PtU%253D",
-    "isFree": true
-  },
-  {
     "title": "Sunderfolk",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2414270/60c0c3f09f2e84a5b66b31faf8e488fbf1890480/capsule_231x87.jpg?t=1773940416",
     "originalPrice": "$49.99",
@@ -55,28 +33,6 @@
     "isFree": true
   },
   {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.23",
-    "discountPercent": "99%",
-    "store": "GameBillet",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
-    "isFree": false
-  },
-  {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.30",
-    "discountPercent": "99%",
-    "store": "GamersGate",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
-    "isFree": false
-  },
-  {
     "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
     "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
     "originalPrice": "$34.94",
@@ -88,25 +44,69 @@
     "isFree": false
   },
   {
-    "title": "Helheim Hassle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1095120/capsule_231x87.jpg?t=1728990639",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.76",
+    "title": "The Book of Legends",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277470/capsule_231x87.jpg?t=1730488403",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.59",
     "discountPercent": "96%",
-    "store": "GameBillet",
+    "store": "Humble Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=kghsBLa3cVIM1q6voqfBrzSEz6hwZYhBig2Wgs%252Bm78E%253D",
+    "affiliateLink": "https://dailygamedrops.com/track?game=nlp3qDJuphBKbhB375Uh1maMvh4fQqKur9BHFfgLZqI%253D",
     "isFree": false
   },
   {
-    "title": "Bakery Simulator",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1031120/capsule_231x87.jpg?t=1773420813",
-    "originalPrice": "$15.99",
-    "currentPrice": "$0.62",
+    "title": "3 Stars of Destiny",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/278530/capsule_231x87.jpg?t=1723878860",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.59",
     "discountPercent": "96%",
-    "store": "GameBillet",
+    "store": "Humble Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=gzBaEVbGEmjZgrEzrsN9tgzz5g8VEshVoY4EvNed%252Bu8%253D",
+    "affiliateLink": "https://dailygamedrops.com/track?game=6Aub49GWdswiskFpaRZO5RAmunYBStZzD0B4wnwhbW8%253D",
+    "isFree": false
+  },
+  {
+    "title": "Asguaard",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332380/3644b8c12f7936c45d032e0286c94d38a3d36fc1/capsule_231x87.jpg?t=1730487357",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.59",
+    "discountPercent": "96%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=K1MyHIH8RzjWZr%252FdjEB7fmgXCmF4mFwnlW2wZgCa5mc%253D",
+    "isFree": false
+  },
+  {
+    "title": "Cyber Avenger",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/999f5dd68c940b281def83a4b261698afd44c442/capsule_231x87.jpg?t=1757268783",
+    "originalPrice": "$17.99",
+    "currentPrice": "$0.71",
+    "discountPercent": "96%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
+    "isFree": false
+  },
+  {
+    "title": "Helheim Hassle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1095120/capsule_231x87.jpg?t=1728990639",
+    "originalPrice": "$19.99",
+    "currentPrice": "$0.79",
+    "discountPercent": "96%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=4fPrDk9qDVxXQXzcoW8HgXfHgREGdnZxz%252F4TJhOQ8a4%253D",
+    "isFree": false
+  },
+  {
+    "title": "Helheim Hassle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1095120/capsule_231x87.jpg?t=1728990639",
+    "originalPrice": "$19.99",
+    "currentPrice": "$0.80",
+    "discountPercent": "96%",
+    "store": "GreenManGaming",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=0m7Twn%252FuRs9CGFeEhxQMQ%252BzRvKhTy17bNpXnmy4sT9g%253D",
     "isFree": false
   }
 ]
