@@ -33,6 +33,17 @@
     "isFree": true
   },
   {
+    "title": "Arkanoid - Eternal Battle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
+    "originalPrice": "$29.99",
+    "currentPrice": "$0.30",
+    "discountPercent": "99%",
+    "store": "GamersGate",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
+    "isFree": false
+  },
+  {
     "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
     "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
     "originalPrice": "$34.94",
@@ -96,17 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=4fPrDk9qDVxXQXzcoW8HgXfHgREGdnZxz%252F4TJhOQ8a4%253D",
-    "isFree": false
-  },
-  {
-    "title": "Helheim Hassle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1095120/capsule_231x87.jpg?t=1728990639",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.80",
-    "discountPercent": "96%",
-    "store": "GreenManGaming",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=0m7Twn%252FuRs9CGFeEhxQMQ%252BzRvKhTy17bNpXnmy4sT9g%253D",
     "isFree": false
   }
 ]
