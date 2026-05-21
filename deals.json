@@ -1,7 +1,7 @@
 [
   {
     "title": "Sunderfolk",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2414270/60c0c3f09f2e84a5b66b31faf8e488fbf1890480/capsule_231x87.jpg?t=1773940416",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2414270/60c0c3f09f2e84a5b66b31faf8e488fbf1890480/capsule_231x87.jpg?t=1779301308",
     "originalPrice": "$49.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
@@ -36,11 +36,33 @@
     "title": "Arkanoid - Eternal Battle",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
     "originalPrice": "$29.99",
+    "currentPrice": "$0.21",
+    "discountPercent": "99%",
+    "store": "GameBillet",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
+    "isFree": false
+  },
+  {
+    "title": "Arkanoid - Eternal Battle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
+    "originalPrice": "$29.99",
     "currentPrice": "$0.30",
     "discountPercent": "99%",
     "store": "GamersGate",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
+    "isFree": false
+  },
+  {
+    "title": "F.E.A.R. 2: Reborn",
+    "imageUrl": "https://sttc.gamersgate.com/images/product/fear-2-reborn/cover-180-2ca98e.jpg",
+    "originalPrice": "$9.99",
+    "currentPrice": "$0.30",
+    "discountPercent": "97%",
+    "store": "IndieGala",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=6YafOfJd17%252BEZ8m2kJHrMv7o4SyEFaO%252FiYg%252BpWIyILQ%253D",
     "isFree": false
   },
   {
@@ -85,28 +107,6 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=K1MyHIH8RzjWZr%252FdjEB7fmgXCmF4mFwnlW2wZgCa5mc%253D",
-    "isFree": false
-  },
-  {
-    "title": "Cyber Avenger",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/999f5dd68c940b281def83a4b261698afd44c442/capsule_231x87.jpg?t=1757268783",
-    "originalPrice": "$17.99",
-    "currentPrice": "$0.71",
-    "discountPercent": "96%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
-    "isFree": false
-  },
-  {
-    "title": "Helheim Hassle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1095120/capsule_231x87.jpg?t=1728990639",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.79",
-    "discountPercent": "96%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=4fPrDk9qDVxXQXzcoW8HgXfHgREGdnZxz%252F4TJhOQ8a4%253D",
     "isFree": false
   }
 ]
