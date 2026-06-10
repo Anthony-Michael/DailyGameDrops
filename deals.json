@@ -11,17 +11,6 @@
     "isFree": true
   },
   {
-    "title": "Gravity Circuit",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/858710/capsule_231x87.jpg?t=1777568275",
-    "originalPrice": "$18.68",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Steam",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/steam?dealID=zmS4o0E%252FnDQY25xSFhqB6rQlds0CHQZre0%252BaYLkhU4A%253D",
-    "isFree": true
-  },
-  {
     "title": "Rogue Waters",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1691190/794ad7e6ecd1e0dd748b0aebb658ec5205fd33eb/capsule_231x87.jpg?t=1748339686",
     "originalPrice": "$29.99",
@@ -107,6 +96,17 @@
     "store": "GameBillet",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=1de7yfhpUQv3OgkuRccxWlkQC73PzG3JUPwNj5S7%252Fz4%253D",
+    "isFree": false
+  },
+  {
+    "title": "The Book of Legends",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277470/capsule_231x87.jpg?t=1730488403",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.59",
+    "discountPercent": "96%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=nlp3qDJuphBKbhB375Uh1maMvh4fQqKur9BHFfgLZqI%253D",
     "isFree": false
   }
 ]
