@@ -55,28 +55,6 @@
     "isFree": true
   },
   {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.23",
-    "discountPercent": "99%",
-    "store": "GameBillet",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
-    "isFree": false
-  },
-  {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.30",
-    "discountPercent": "99%",
-    "store": "GamersGate",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
-    "isFree": false
-  },
-  {
     "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
     "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
     "originalPrice": "$34.94",
@@ -88,17 +66,6 @@
     "isFree": false
   },
   {
-    "title": "Police Shootout",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1279240/capsule_231x87.jpg?t=1758644293",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.57",
-    "discountPercent": "96%",
-    "store": "GameBillet",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=1de7yfhpUQv3OgkuRccxWlkQC73PzG3JUPwNj5S7%252Fz4%253D",
-    "isFree": false
-  },
-  {
     "title": "The Book of Legends",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277470/capsule_231x87.jpg?t=1730488403",
     "originalPrice": "$14.99",
@@ -107,6 +74,39 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=nlp3qDJuphBKbhB375Uh1maMvh4fQqKur9BHFfgLZqI%253D",
+    "isFree": false
+  },
+  {
+    "title": "3 Stars of Destiny",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/278530/capsule_231x87.jpg?t=1723878860",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.59",
+    "discountPercent": "96%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=6Aub49GWdswiskFpaRZO5RAmunYBStZzD0B4wnwhbW8%253D",
+    "isFree": false
+  },
+  {
+    "title": "Asguaard",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332380/3644b8c12f7936c45d032e0286c94d38a3d36fc1/capsule_231x87.jpg?t=1730487357",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.59",
+    "discountPercent": "96%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=K1MyHIH8RzjWZr%252FdjEB7fmgXCmF4mFwnlW2wZgCa5mc%253D",
+    "isFree": false
+  },
+  {
+    "title": "Cyber Avenger",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/999f5dd68c940b281def83a4b261698afd44c442/capsule_231x87.jpg?t=1757268783",
+    "originalPrice": "$17.99",
+    "currentPrice": "$0.71",
+    "discountPercent": "96%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
     "isFree": false
   }
 ]
