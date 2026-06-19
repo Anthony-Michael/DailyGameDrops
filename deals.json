@@ -1,46 +1,24 @@
 [
   {
-    "title": "RAVEN2 Half anniversary Starter Pack",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/b5a63290fb914349b2c6506a9b5619eb/raven2-70aye.jpg",
-    "originalPrice": "$69.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=x8bu%252Bj%252BU0BedyBq04YtFGW%252BtW7TOdNYGp628gWMVceE%253D",
-    "isFree": true
-  },
-  {
-    "title": "Divers Mega Pack",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/ba63e2527a8c4b768845919c0d6c788e/mongil-star-dive-1hemx.jpg",
-    "originalPrice": "$9.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=pHg6l1sttBXWf1wtzuMlKW3jn2JrhpdJjtjPcPXaPj8%253D",
-    "isFree": true
-  },
-  {
-    "title": "Warhammer 40K Speed Freeks",
-    "imageUrl": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1qfk9.png",
+    "title": "Citizen Sleeper",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1578650/b875228502cf99c29540c4fd5ba33bdd6989b397/capsule_231x87.jpg?t=1780960841",
     "originalPrice": "$19.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=lp1v5hJMJYuFMPI16Ttyd7Uj%252BISuY2asHQwBvDAsG8A%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=KltukaH5Vb1cIzHnNNvBR1E0ZDEi9vo7p50P5Z%252Bt5h8%253D",
     "isFree": true
   },
   {
-    "title": "The Ouroboros King",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2096510/capsule_231x87.jpg?t=1776273346",
-    "originalPrice": "$9.99",
+    "title": "ROBOBEAT",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1456760/dfd0123d501d3a2e0abedc1650b3dc7b65165cac/capsule_231x87.jpg?t=1781256997",
+    "originalPrice": "$19.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=ovLg5s6ngsoyUJKVRaWbIt75C%252FeEo1qkBW%252F6Hp7BpXo%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=ubYxq7m8WA63fHxcDy2f8jRwhoLs8U8k3ZvHuiWcNb4%253D",
     "isFree": true
   },
   {
@@ -99,6 +77,17 @@
     "isFree": false
   },
   {
+    "title": "RiMS Racing",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1346010/capsule_231x87.jpg?t=1759396011",
+    "originalPrice": "$49.99",
+    "currentPrice": "$1.99",
+    "discountPercent": "96%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=3kyxelVNePkxRSwLh%252FuuYmqXBHu1QD1HAr%252BYXab5CPw%253D",
+    "isFree": false
+  },
+  {
     "title": "1775: Rebellion",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/422610/capsule_231x87.jpg?t=1731082244",
     "originalPrice": "$24.99",
@@ -107,6 +96,17 @@
     "store": "WinGameStore",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=Mv5bUBdVbELz9bvtQoJDX%252F2scke6aQFCMzsoQCEUNWs%253D",
+    "isFree": false
+  },
+  {
+    "title": "Heads Up! Phones Down Edition!",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2533370/capsule_231x87.jpg?t=1699552797",
+    "originalPrice": "$39.99",
+    "currentPrice": "$1.79",
+    "discountPercent": "96%",
+    "store": "Fanatical",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=YHKGU18ebKG9bmzIR3QVEnkoAN6ofaDTk0ximKbpbNw%253D",
     "isFree": false
   }
 ]
