@@ -22,6 +22,28 @@
     "isFree": true
   },
   {
+    "title": "Arkanoid - Eternal Battle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
+    "originalPrice": "$29.99",
+    "currentPrice": "$0.26",
+    "discountPercent": "99%",
+    "store": "GameBillet",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
+    "isFree": false
+  },
+  {
+    "title": "Arkanoid - Eternal Battle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
+    "originalPrice": "$29.99",
+    "currentPrice": "$0.30",
+    "discountPercent": "99%",
+    "store": "GamersGate",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
+    "isFree": false
+  },
+  {
     "title": "Realms of Arkania: Star Trail Deluxe Edition Content",
     "imageUrl": "https://www.wingamestore.com/images_boxshots/master/realms-of-arkania-star-trail-deluxe-edition-1548951002.jpg",
     "originalPrice": "$34.94",
@@ -85,28 +107,6 @@
     "store": "Fanatical",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=3kyxelVNePkxRSwLh%252FuuYmqXBHu1QD1HAr%252BYXab5CPw%253D",
-    "isFree": false
-  },
-  {
-    "title": "RiMS Racing : European Manufacturers Deluxe Edition",
-    "imageUrl": "https://images.greenmangaming.com/44b2e58059f24a6b988fc6115d109ea0/f4040ca084e943bc97ca74b7e8a4d99c.jpg",
-    "originalPrice": "$59.73",
-    "currentPrice": "$2.48",
-    "discountPercent": "96%",
-    "store": "GreenManGaming",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=EZAwRBInTpGf1VOOAgk8LKjQthK5qPY65ZTavd5vvZg%253D",
-    "isFree": false
-  },
-  {
-    "title": "RiMS Racing : Japanese Manufacturers Deluxe Edition",
-    "imageUrl": "https://images.greenmangaming.com/55e03f21efa54f19876f864fc8d57ead/7d4a7ff3d9f946bdadef4edb47f362a3.jpg",
-    "originalPrice": "$59.73",
-    "currentPrice": "$2.48",
-    "discountPercent": "96%",
-    "store": "GreenManGaming",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=KSfCf%252FzwQutlTMdyvOkPEaItYMtkK8fVNUd%252Fpey%252FnA0%253D",
     "isFree": false
   }
 ]
