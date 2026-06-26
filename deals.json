@@ -1,31 +1,20 @@
 [
   {
-    "title": "Citizen Sleeper",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1578650/b875228502cf99c29540c4fd5ba33bdd6989b397/capsule_231x87.jpg?t=1780960841",
+    "title": "Voidwrought",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2014550/fc2359bf3f4933096fb7a0fcb6213f1e5dcd754f/capsule_231x87.jpg?t=1782215852",
     "originalPrice": "$19.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=KltukaH5Vb1cIzHnNNvBR1E0ZDEi9vo7p50P5Z%252Bt5h8%253D",
-    "isFree": true
-  },
-  {
-    "title": "ROBOBEAT",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1456760/dfd0123d501d3a2e0abedc1650b3dc7b65165cac/capsule_231x87.jpg?t=1781256997",
-    "originalPrice": "$19.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=ubYxq7m8WA63fHxcDy2f8jRwhoLs8U8k3ZvHuiWcNb4%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=wsbDlrP1t3fCSNls1l1BWslJYqzjJDuDLJ0%252FCxpAcYI%253D",
     "isFree": true
   },
   {
     "title": "Arkanoid - Eternal Battle",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
     "originalPrice": "$29.99",
-    "currentPrice": "$0.26",
+    "currentPrice": "$0.23",
     "discountPercent": "99%",
     "store": "GameBillet",
     "platform": "PC",
@@ -41,6 +30,17 @@
     "store": "GamersGate",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
+    "isFree": false
+  },
+  {
+    "title": "F.E.A.R. 2: Reborn",
+    "imageUrl": "https://sttc.gamersgate.com/images/product/fear-2-reborn/cover-180-2ca98e.jpg",
+    "originalPrice": "$9.99",
+    "currentPrice": "$0.30",
+    "discountPercent": "97%",
+    "store": "IndieGala",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=6YafOfJd17%252BEZ8m2kJHrMv7o4SyEFaO%252FiYg%252BpWIyILQ%253D",
     "isFree": false
   },
   {
@@ -88,6 +88,17 @@
     "isFree": false
   },
   {
+    "title": "Daedalic - Gigantic Bundle",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/76471/capsule_231x87.jpg?t=1481563053",
+    "originalPrice": "$69.99",
+    "currentPrice": "$2.76",
+    "discountPercent": "96%",
+    "store": "GameBillet",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=0bsBRi5%252B5ZIn7jYf8PKTiMPSQ4D47mEVKLW%252BW3vdTis%253D",
+    "isFree": false
+  },
+  {
     "title": "Cyber Avenger",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/999f5dd68c940b281def83a4b261698afd44c442/capsule_231x87.jpg?t=1757268783",
     "originalPrice": "$17.99",
@@ -96,17 +107,6 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
-    "isFree": false
-  },
-  {
-    "title": "RiMS Racing",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1346010/capsule_231x87.jpg?t=1759396011",
-    "originalPrice": "$49.99",
-    "currentPrice": "$1.99",
-    "discountPercent": "96%",
-    "store": "Fanatical",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=3kyxelVNePkxRSwLh%252FuuYmqXBHu1QD1HAr%252BYXab5CPw%253D",
     "isFree": false
   }
 ]
