@@ -11,6 +11,17 @@
     "isFree": true
   },
   {
+    "title": "A Simple Garbage Sorting Game",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3384180/c6a3f0091ad4c3fea84dcbbf00044981624d0904/capsule_231x87.jpg?t=1767859061",
+    "originalPrice": "$0.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=HjeRjjNxbDv6lSsH3waL8nflmNE%252BOg6AqYaWnAkBvdI%253D",
+    "isFree": true
+  },
+  {
     "title": "Arkanoid - Eternal Battle",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
     "originalPrice": "$29.99",
@@ -96,17 +107,6 @@
     "store": "GameBillet",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=0bsBRi5%252B5ZIn7jYf8PKTiMPSQ4D47mEVKLW%252BW3vdTis%253D",
-    "isFree": false
-  },
-  {
-    "title": "Cyber Avenger",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/999f5dd68c940b281def83a4b261698afd44c442/capsule_231x87.jpg?t=1757268783",
-    "originalPrice": "$17.99",
-    "currentPrice": "$0.71",
-    "discountPercent": "96%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
     "isFree": false
   }
 ]
