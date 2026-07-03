@@ -1,13 +1,13 @@
 [
   {
-    "title": "Voidwrought",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2014550/fc2359bf3f4933096fb7a0fcb6213f1e5dcd754f/capsule_231x87.jpg?t=1782215852",
-    "originalPrice": "$19.99",
+    "title": "River City Girls 2",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1920480/capsule_231x87.jpg?t=1758823732",
+    "originalPrice": "$39.99",
     "currentPrice": "$0.00",
     "discountPercent": "100%",
     "store": "Epic Games Store",
     "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=wsbDlrP1t3fCSNls1l1BWslJYqzjJDuDLJ0%252FCxpAcYI%253D",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=Hh%252FV2q79faSg2e2HgKUo9AXZz75SH7oP12X75z4S5Sc%253D",
     "isFree": true
   },
   {
@@ -19,6 +19,17 @@
     "store": "Epic Games Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=HjeRjjNxbDv6lSsH3waL8nflmNE%252BOg6AqYaWnAkBvdI%253D",
+    "isFree": true
+  },
+  {
+    "title": "I Have No Mouth And I Must Scream",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245390/capsule_231x87.jpg?t=1773355242",
+    "originalPrice": "$9.99",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=3ZmO6v%252F3BnJLRrKshDIB8nhxnXbGEwvTbscswgomK94%253D",
     "isFree": true
   },
   {
@@ -96,17 +107,6 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=6Aub49GWdswiskFpaRZO5RAmunYBStZzD0B4wnwhbW8%253D",
-    "isFree": false
-  },
-  {
-    "title": "Asguaard",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332380/3644b8c12f7936c45d032e0286c94d38a3d36fc1/capsule_231x87.jpg?t=1730487357",
-    "originalPrice": "$14.99",
-    "currentPrice": "$0.59",
-    "discountPercent": "96%",
-    "store": "Humble Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=K1MyHIH8RzjWZr%252FdjEB7fmgXCmF4mFwnlW2wZgCa5mc%253D",
     "isFree": false
   }
 ]
