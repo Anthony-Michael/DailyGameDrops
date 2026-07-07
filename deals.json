@@ -11,17 +11,6 @@
     "isFree": true
   },
   {
-    "title": "A Simple Garbage Sorting Game",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3384180/c6a3f0091ad4c3fea84dcbbf00044981624d0904/capsule_231x87.jpg?t=1767859061",
-    "originalPrice": "$0.99",
-    "currentPrice": "$0.00",
-    "discountPercent": "100%",
-    "store": "Epic Games Store",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=HjeRjjNxbDv6lSsH3waL8nflmNE%252BOg6AqYaWnAkBvdI%253D",
-    "isFree": true
-  },
-  {
     "title": "I Have No Mouth And I Must Scream",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245390/capsule_231x87.jpg?t=1773355242",
     "originalPrice": "$9.99",
@@ -107,6 +96,17 @@
     "store": "Humble Store",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=6Aub49GWdswiskFpaRZO5RAmunYBStZzD0B4wnwhbW8%253D",
+    "isFree": false
+  },
+  {
+    "title": "Asguaard",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332380/3644b8c12f7936c45d032e0286c94d38a3d36fc1/capsule_231x87.jpg?t=1730487357",
+    "originalPrice": "$14.99",
+    "currentPrice": "$0.59",
+    "discountPercent": "96%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=K1MyHIH8RzjWZr%252FdjEB7fmgXCmF4mFwnlW2wZgCa5mc%253D",
     "isFree": false
   }
 ]
