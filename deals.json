@@ -11,6 +11,17 @@
     "isFree": true
   },
   {
+    "title": "NoRush!",
+    "imageUrl": "https://cdn1.epicgames.com/spt-assets/c9f21b13a96c43e98f29177035f4a5f5/norush-1rpak.png",
+    "originalPrice": "$2.49",
+    "currentPrice": "$0.00",
+    "discountPercent": "100%",
+    "store": "Epic Games Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=7dNtvi7cxHcVp8P7x6SHTshGwJT31KeFzCS49IWBt8s%253D",
+    "isFree": true
+  },
+  {
     "title": "Tattoo Tycoon",
     "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2375260/56e1e2ab605a617180da63984e5435238badfbc4/capsule_231x87.jpg?t=1771922358",
     "originalPrice": "$29.99",
@@ -20,28 +31,6 @@
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/affiliates/epic?dealID=uALxWb1eqHb5dheChJTIGZtb5tDcLX9oqPBkHnoY3%252BE%253D",
     "isFree": true
-  },
-  {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.23",
-    "discountPercent": "99%",
-    "store": "GameBillet",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=SwXaxXF1vpfvIBoIgxBhakJ%252BoUgtVRc%252FFWvgGJFM4Zg%253D",
-    "isFree": false
-  },
-  {
-    "title": "Arkanoid - Eternal Battle",
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1717270/capsule_231x87.jpg?t=1727356241",
-    "originalPrice": "$29.99",
-    "currentPrice": "$0.30",
-    "discountPercent": "99%",
-    "store": "GamersGate",
-    "platform": "PC",
-    "affiliateLink": "https://dailygamedrops.com/track?game=LYNo8qZg8o8Kyw%252FuiZvoSYztTtRMoQMx%252FdCr%252B%252BnAKso%253D",
-    "isFree": false
   },
   {
     "title": "F.E.A.R. 2: Reborn",
@@ -107,6 +96,17 @@
     "store": "GameBillet",
     "platform": "PC",
     "affiliateLink": "https://dailygamedrops.com/track?game=0bsBRi5%252B5ZIn7jYf8PKTiMPSQ4D47mEVKLW%252BW3vdTis%253D",
+    "isFree": false
+  },
+  {
+    "title": "Cyber Avenger",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2606270/999f5dd68c940b281def83a4b261698afd44c442/capsule_231x87.jpg?t=1757268783",
+    "originalPrice": "$17.99",
+    "currentPrice": "$0.71",
+    "discountPercent": "96%",
+    "store": "Humble Store",
+    "platform": "PC",
+    "affiliateLink": "https://dailygamedrops.com/track?game=l%252FF5BpsRT4wNh0cdyDv0PSWFzTvOmohwiE4KBIXimww%253D",
     "isFree": false
   }
 ]
